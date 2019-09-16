@@ -25,8 +25,8 @@
     <item quantity="one">%d şarkı kaldırılsın mı?</item>
   </plurals>
   <plurals name="dialog_remove_from_cloud_descript">
-    <item quantity="other">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
-    <item quantity="one">%d şarkı Mi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
+    <item quantity="other">%d şarkı Xiaomi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
+    <item quantity="one">%d şarkı Xiaomi Bulut üzerinden silinsin mi? Yerel çalma listelerinden de silinirler.</item>
   </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indirildi</item>
@@ -123,8 +123,8 @@
     <item quantity="one">%1$s oluşturuldu | Toplam %2$d şarkı</item>
   </plurals>
   <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">%d şarkı Mi Bulut\'a yedeklenemedi. Şimdi durdurulsun mu?</item>
-    <item quantity="one">%d şarkı Mi Bulut\'a yedeklenemedi. Şimdi durdurulsun mu?</item>
+    <item quantity="other">%d şarkı Xiaomi Bulut\'a yedeklenemedi. Şimdi durdurulsun mu?</item>
+    <item quantity="one">%d şarkı Xiaomi Bulut\'a yedeklenemedi. Şimdi durdurulsun mu?</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d şarkı listeye eklendi</item>
