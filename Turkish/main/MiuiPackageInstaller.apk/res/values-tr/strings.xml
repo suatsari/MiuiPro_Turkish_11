@@ -253,6 +253,10 @@
   <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
+  <string name="risk_warning_title">Risk tespit edildi</string>
+  <string name="risk_warning_msg">Bu kurulum paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı GetApps\'dan yükleyin.</string>
+  <string name="risk_warning_top_button">Yükleme</string>
+  <string name="risk_warning_bottom_button">GetApps\'dan yükleyin</string>
   <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>
   <string name="safe_relative">Güvenlik</string>
   <string name="screen_overlay_button">Ayarları Aç</string>
