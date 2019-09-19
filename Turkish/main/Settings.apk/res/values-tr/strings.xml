@@ -289,6 +289,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
   <string name="aod_mode_turn_off">Kapalı</string>
   <string name="aod_mode_turn_on">Açık</string>
+  <string name="aod_name_wanxiang">Ortam ekranı</string>
   <string name="apn_auth_type">Kimlik Doğrulama Türü</string>
   <string name="apn_auth_type_none">Yok</string>
   <string name="apn_auth_type_pap_chap">PAP veya CHAP</string>
