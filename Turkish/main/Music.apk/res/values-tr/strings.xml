@@ -1308,7 +1308,7 @@
   <string name="video_more_like">Beğen</string>
   <string name="video_network_always_open_toast">Müzik akışı için mobil veri kullanmaya izin verdiniz</string>
   <string name="video_network_message">Şimdi mobil veri kullanıyorsunuz. Bu öğeyi oynatmak için %1$s veriye ihtiyacın var.</string>
-  <string name="video_network_negative">Müzik akışı için mobil veri kullanılmasına izin ver</string>
+  <string name="video_network_negative">Mobil veri kullanarak akış öğelerine izin ver</string>
   <string name="video_network_positive">Uzaktan oynat</string>
   <string name="video_play_count">%1$s oynatılıyor</string>
   <string name="video_play_error">Tekrar oynatmak için dokunun</string>
