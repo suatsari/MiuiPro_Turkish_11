@@ -126,7 +126,7 @@
   <string name="auto_restart_under_wifi">WLAN otomatik olarak bu dosyayı indirir</string>
   <string name="auto_upgrade">Otomatik Güncelle</string>
   <string name="avail_services">Mevcut</string>
-  <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
+  <string name="available_playlist_name_format">Çalma listesi %d</string>
   <string name="back_confirm">Uygulamayı arka plana itmek için tekrar dokunun</string>
   <string name="backup_complete">Tüm şarkılar Xiaomi Bulut\'a yedeklendi</string>
   <string name="backup_empty_button">Seçili şarkı yok</string>
@@ -556,7 +556,7 @@
   <string name="karaoke_title">Karaoke Tanıtımı</string>
   <string name="keep_queued_download">Koru</string>
   <string name="ktv_playlist">KTV Çalma listesi</string>
-  <string name="latest_song">Oynatma geçmişi (%d)</string>
+  <string name="latest_song"><Data>Oynatma geçmişi &lt;font color=#7e7e7e>(%1$d)&lt;/font></Data></string>
   <string name="like">Beğen</string>
   <string name="like_comment_failed">Yorum beğenilmedi</string>
   <string name="like_comment_success">Beğenildi</string>

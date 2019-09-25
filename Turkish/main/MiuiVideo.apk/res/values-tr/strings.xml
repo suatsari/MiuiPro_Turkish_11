@@ -598,7 +598,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="plus_mine_videos">Videolarım</string>
   <string name="plus_player_8k_video_not_support">Bu cihazda 8K video oynatılamıyor</string>
   <string name="plus_player_audio_track">Müzik parçası</string>
-  <string name="plus_player_detail_file_location">Konum:…</string>
+  <string name="plus_player_detail_file_location">"Konum: "</string>
   <string name="plus_player_detail_file_name">"Dosya adı: "</string>
   <string name="plus_player_detail_file_param">"Parametreler: "</string>
   <string name="plus_player_detail_file_path">"Yol:</string>
@@ -900,10 +900,10 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="v_canceled">İptal edildi</string>
   <string name="v_category">Kategoriler</string>
   <string name="v_change_mobile_net_setting">Ayarlar</string>
-  <string name="v_clause_info">1. Sohu TV, iQiyi, vb. tarafından sunulan çevrimiçi hizmetleri kullanabilmek için, <a href="http://www.miui.com/res/doc/eula.html">Kullanıcı Sözleşmesi</a> ve <a href="http://www.miui.com/res/doc/privacy.html">Gizlilik Politikası</a>".
+  <string name="v_clause_info">1. Sohu TV, iQiyi ve diğer içerik sağlayıcılar tarafından sağlanan çevrimiçi hizmetleri kullanabilmek için, <a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">Kullanıcı Sözleşmesini</a> ve <a href="https://privacy.mi.com/all/">Gizlilik Politikasını</a> kabul etmelisiniz".
 2. Cihazınız hakkındaki bilgileri ve Mi Videoyu kullanma şeklinizi toplayacağız. İçerik sağlayıcılar cihaz kimliğinizi alır.
-3. Kullanıcı deneyiminizi geliştirmek için, bir HD video eklentisi indirilecek ve cihazınıza yüklenecektir.
-4. Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir."</string>
+3.  Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir.
+4. Mi Video, video akışı yapabilmek için bir HD video eklentisi indirmeli ve kurmalıdır."</string>
   <string name="v_clause_notips">Tekrar gösterme</string>
   <string name="v_clause_title">Şartlar ve koşullar</string>
   <string name="v_click_channel_scrol_to_top">En üste geri gitmek için tekrar dokunun.</string>

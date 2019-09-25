@@ -96,4 +96,16 @@
     <item quantity="other">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, &lt;Data>&lt;font color=#ffa201>şimdi satın al&lt;/font>&lt;/Data>.</item>
     <item quantity="one">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, &lt;Data>&lt;font color=#ffa201>şimdi satın al&lt;/font>&lt;/Data>.</item>
   </plurals>
+  <plurals name="hours_before">
+    <item quantity="other">%d saat önce</item>
+    <item quantity="one">%d saat önce</item>
+  </plurals>
+  <plurals name="minites_before">
+    <item quantity="other">%d dakika önce</item>
+    <item quantity="one">%d dakika önce</item>
+  </plurals>
+  <plurals name="open_comments">
+    <item quantity="other">%d yorumları görüntüle</item>
+    <item quantity="one">%d yorumları görüntüle</item>
+  </plurals>
 </resources>
