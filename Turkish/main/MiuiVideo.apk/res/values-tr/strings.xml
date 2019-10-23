@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Ana sayfa</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Sayfanın Üstü</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
@@ -62,7 +60,9 @@
   <string name="alert_dialog_download_plugin">HD eklentisini aç:</string>
   <string name="alert_dialog_download_prepare">%1s açılmak üzere…</string>
   <string name="alert_dialog_download_progress">%1s açılıyor:</string>
+  <string name="all_comments">Tüm yorumlar</string>
   <string name="all_content_nums">(%d bölüm)</string>
+  <string name="another_change">Daha fazla</string>
   <string name="app_charging_wifi_mode">Yeni sürümü tutuluyor</string>
   <string name="app_charging_wifi_mode_summary">Cihazınız şarj olurken Wi-Fi bağlantısı ile Mi Video\'yu otomatik olarak güncelleyin</string>
   <string name="app_name">Mi Video</string>
@@ -78,6 +78,7 @@
   <string name="barrage_write_lable_hint">Yorum yaz</string>
   <string name="barrage_write_lable_hint_unlogin">Ekranda yorum yapmak için giriş yapın</string>
   <string name="barrage_write_length_limit">Yorumunuz çok uzun.</string>
+  <string name="batch_follow">Tümünü takip et</string>
   <string name="before_yestoday">2 gün önce</string>
   <string name="bmp_quality_mode">Yüksek kalite</string>
   <string name="bmp_quality_mode_desc">HD posterleri görüntülemek için açın</string>
@@ -100,7 +101,11 @@
   <string name="clear_cache">Önbelleği temizle</string>
   <string name="clear_cache_success">Önbellek başarıyla temizlendi</string>
   <string name="clear_cache_summary">Önbelleğe alınmış video posterlerini temizle</string>
+  <string name="close_developer_options">Geliştirici seçenekleri kapatıldı</string>
+  <string name="close_sub_comments">Gizle</string>
+  <string name="closed_function_log">İsteğe bağlı servisler</string>
   <string name="collect">toplama</string>
+  <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
   <string name="collected">toplandı</string>
   <string name="comfirm_open">Aç</string>
   <string name="comment_back">Geri</string>
@@ -118,6 +123,7 @@
   <string name="common_cancel">İptal</string>
   <string name="complete_growth_task_remind">Ödül almak için görevleri tamamlayın</string>
   <string name="confirm_close">Kapat</string>
+  <string name="copy">Kopyala</string>
   <string name="copyright_restrict">Telif hakkı sorunları nedeniyle bu dosyayı indiremiyorum.</string>
   <string name="count_ge_media">%d video</string>
   <string name="create_tencent_shortcut_message">Masaüstünde bir Tencent Video Kısayolu oluşturuldu</string>
@@ -130,6 +136,7 @@
   <string name="declare_info">Çevrimiçi video akışı ve cihazınızda video dosyalarını oynatma</string>
   <string name="declare_read_phone_state">Cihaz bilgisine erişim</string>
   <string name="declare_storage">Dahili depolamadaki dosyalara erişin ve değiştirin</string>
+  <string name="delete">Sil</string>
   <string name="derail_continue_play">Oynatmaya devam et</string>
   <string name="detail_collect">Seçme</string>
   <string name="detail_comment">Yorum</string>
@@ -149,9 +156,13 @@
   <string name="detail_summary_category_and_date">Ayrıntılar</string>
   <string name="detail_summary_episode_count">Bölüm sayısı</string>
   <string name="detail_summary_staff">Oyuncular</string>
+  <string name="detail_summary_video_source">Oynatma kaynağı</string>
+  <string name="developer_context">Ağ ortamı</string>
   <string name="development_setting">Kullanıcı deneyimi programı</string>
   <string name="device_empty_hint">Boş</string>
   <string name="device_media_empty_hint">Boş</string>
+  <string name="diagnosis_log_send_failed">Teşhis günlüğü gönderme başarısız.</string>
+  <string name="diagnosis_log_sent_format">Teşhis günlüğü gönderildi.\nID:%s\nLütfen bu kodu teknisyene gönderin.</string>
   <string name="dialog_copy_url">Url\'yi kopyala</string>
   <string name="dialog_download">İndir</string>
   <string name="dialog_share_cancel">İptal</string>
@@ -176,7 +187,9 @@
   <string name="downloaded_data">İndiriliyor %1$s/%2$s</string>
   <string name="empty_local_video">Yerel video yok</string>
   <string name="empty_video_uri">geçersiz video uri, oynatma hatası</string>
+  <string name="engine_mode">Mühendislik modu</string>
   <string name="enter_detail">Detayları göster</string>
+  <string name="enter_developer_options">Kullanılabilir seçenekleri görüntülemek için dokunun</string>
   <string name="episode_name_format">Bölüm %1$s</string>
   <string name="episode_play_complete">Bu bölümü oynatmayı bitirdi</string>
   <string name="episode_suffix">"Bl. %d "</string>
@@ -202,8 +215,10 @@
   <string name="feedback_tag_title">Kategori seç</string>
   <string name="feedback_text_empty_toast">Geri bildirim gir</string>
   <string name="finished_offline_download_more_episode_text">Daha fazla bölüm indir</string>
+  <string name="follow">Abonelikler</string>
   <string name="follower_count">İzleyiciler</string>
   <string name="font_family">miui</string>
+  <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın.</string>
   <string name="friday">Cuma</string>
   <string name="full_screen_cash_packet">Ödül</string>
   <string name="full_screen_get_award">Ödül al</string>
@@ -245,6 +260,8 @@
   <string name="h5_refresh">Yenile</string>
   <string name="h5_unsharedable">Bu öğe paylaşılamıyor.</string>
   <string name="have_learned">Anladım</string>
+  <string name="have_no_more_comments">Şimdilik bu kadar</string>
+  <string name="high_quality_author">En iyi kanal</string>
   <string name="history_video">Daha erken</string>
   <string name="history_week_video">Bu hafta</string>
   <string name="if_background_offline_text">Dosyaları arka planda indirmeye devam et?</string>
@@ -254,6 +271,11 @@
   <string name="installing">Yükleniyor…</string>
   <string name="installing_nopoint">Yükleniyor</string>
   <string name="integral_exp">Puan hakkında</string>
+  <string name="is_open_closed_function_log">İsteğe bağlı servis günlüğü oluşturmak için aç</string>
+  <string name="is_open_engine_mode">Mühendislik modunu aç</string>
+  <string name="is_open_network_log">Ağ günlüğü oluşturmak için aç</string>
+  <string name="is_open_tracker_log">İstatistik günlüğü oluşturmak için aç</string>
+  <string name="just_now">Az önce</string>
   <string name="layer_gloable_search">Arama</string>
   <string name="lcok_setting">Kilit ekranı ayarları</string>
   <string name="live_now">Canlı</string>
@@ -277,11 +299,12 @@
   <string name="lp_speed_toast">Oynatma hızı %sX…</string>
   <string name="lp_volume">Ses</string>
   <string name="menu_item_enable_audio_enhance">Ses geliştirme</string>
+  <string name="menu_item_enable_auto_change_resolution">Çözünürlüğü otomatik olarak ayarla</string>
   <string name="menu_item_use_notch">Tam ekran oynatma</string>
   <string name="message_center_activity_title">Mesajlarım</string>
   <string name="message_center_activity_title_setting">Ayarlar</string>
   <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Ben&lt;/font></Data>: %s</string>
-  <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font></Data> cevabım <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+  <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font>&lt;/Data> cevabım &lt;Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
   <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> yanıtladı:</string>
   <string name="message_list_fragment_login_comment">Yorumlar hakkındaki mesajları görmek için giriş yapın.</string>
   <string name="message_list_fragment_login_praise">Beğenilerle ilgili mesajları görüntülemek için oturum açın.</string>
@@ -321,7 +344,11 @@
   <string name="my_online_live_pay_record">Ödeme geçmişi</string>
   <string name="mygold">Paralarım</string>
   <string name="myincome">Gelirim</string>
+  <string name="network_log">Ağ</string>
+  <string name="new_app_update_button_text">Şimdi güncelle</string>
+  <string name="new_app_update_title">Bir güncelleme mevcut</string>
   <string name="no_comment">İlk cevap veren siz olun</string>
+  <string name="no_comments">Burada henüz yorum yok. İlkini bırakabilirsin.</string>
   <string name="no_more_data">Şimdilik bu kadar.</string>
   <string name="no_network_tips">Bu işlev, İnternete bağlanmak için yetkilendirilmediğinden geçici olarak kullanılamıyor.</string>
   <string name="no_works">Bu kişi henüz hiçbir şey yayınlamadı.</string>
@@ -365,6 +392,7 @@
   <string name="offline_setting_mobile_net_unlimited"><Data>&lt;font color=#FF0000>Sınırsız&lt;/font></Data></string>
   <string name="offline_success">Başarıyla İndirildi</string>
   <string name="offline_video_delete">Bu video silindi.</string>
+  <string name="ok">Tamam</string>
   <string name="online_live_account_bind">Eklendi</string>
   <string name="online_live_account_unbind">Eklenemedi</string>
   <string name="online_live_anchor_living">Canlı</string>
@@ -390,7 +418,10 @@
   <string name="online_server_setting">Çevrimiçi hizmet ayarları</string>
   <string name="open">Aç</string>
   <string name="open_content_on_browser">Tarayıcıda aç</string>
+  <string name="open_developer_options">Geliştirici seçenekleri açıldı</string>
   <string name="open_local_video">Klasörü aç</string>
+  <string name="open_more_comments">Daha fazla yorum</string>
+  <string name="opened_developer_context">Ağ ortamını değiştir</string>
   <string name="opennow">Aç</string>
   <string name="operate_message_item_dialog_comment">Yorumları görüntüle</string>
   <string name="operate_message_item_dialog_delete">Sil</string>
@@ -417,10 +448,9 @@
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre denetleniyor…</string>
   <string name="passport_checking_input">Giriş denetleniyor…</string>
-  <string name="passport_click_email_to_valid">"
-  
-Hesabınızı etkinleştirmek için,
-Gelen kutunuza bağlantı gönderdik."</string>
+  <string name="passport_click_email_to_valid">" 
+ Hesabınızı etkinleştirmek için,
+ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="passport_completed">Bitti</string>
   <string name="passport_confirm_recycle_account">Evet</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
@@ -478,6 +508,8 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="passport_message_dialog_title">SMS koduyla doğrula</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">"%1$s için oturum açma hatası "</string>
+  <string name="passport_oauth_actionbar_title">Mi Hesabı</string>
+  <string name="passport_oauth_sucess_tip">Yetkilendirme başarılı</string>
   <string name="passport_password_req_notice">Parola 8-16 karakter uzunluğunda olmalı ve hem sayıları hem de harfleri içermelidir (büyük/küçük harfe duyarlı).</string>
   <string name="passport_phone_num_hint_text">Telefon Numarası</string>
   <string name="passport_prev">Geri</string>
@@ -541,7 +573,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="passport_user_agreement_p1">Kabul</string>
   <string name="passport_user_agreement_p2">Kullanıcı Sözleşmesi</string>
-  <string name="passport_user_agreement_p3"> ve </string>
+  <string name="passport_user_agreement_p3">" ve "</string>
   <string name="passport_user_agreement_p4">Gizlilik Politikası</string>
   <string name="passport_vcode_notification_title">Oturum açma doğrulamanız eksik</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
@@ -559,10 +591,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="performance_mode">Yüksek performans</string>
   <string name="performance_mode_desc">Hızını artırmak için açın</string>
   <string name="permission_content">Videoya, hibe izinlerini kullanamazsınız</string>
-  <string name="permission_content2">"Mi Video\'nun normal çalışması için izinler gerekiyor. Ayarlar &gt; Yüklü uygulamalar &gt; Mi Video &gt; Uygulama izinleri bölümüne gidin ve Mi Video\'ya aşağıdakilerle ilgili gerekli izinleri verin:
-
-1. Depolama
-2. Telefon"</string>
+  <string name="permission_content2">Mi Video\'nun normal çalışması için izinler gerekiyor. Ayarlar &gt; Yüklü uygulamalar &gt; Mi Video &gt; Uygulama izinleri bölümüne gidin ve Mi Video\'ya aşağıdakilerle ilgili gerekli izinleri verin:\n\n1. Depolama\n2. Telefon</string>
   <string name="permission_open_settings">Ayarlar</string>
   <string name="permission_refuse">reddet</string>
   <string name="permission_retry">yeniden dene</string>
@@ -572,14 +601,18 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="play_now">Oynat</string>
   <string name="player_plugin_des">Yüklü eklentiler</string>
   <string name="player_plugin_title">Eklentiler</string>
+  <string name="player_setting_audio_enhance">Sesi geliştir</string>
   <string name="playing">oynuyor</string>
   <string name="plugin_install_failure">Eklenti yüklenemedi</string>
   <string name="plus_add_shortcut">Ana ekran kısayolu oluştur</string>
   <string name="plus_change_poster">Albüm kapağını değiştir</string>
   <string name="plus_deleting_wait">Siliniyor</string>
+  <string name="plus_dfolder_file_echange">Dosyaları yönet</string>
   <string name="plus_fallback">Geri bildirim</string>
   <string name="plus_gallery_allvideos">Tüm videolar</string>
   <string name="plus_gallery_folder_switch_guid">Liste görünümüne geçmek için dokunun</string>
+  <string name="plus_gallery_folders_showall">Tümünü görüntüle</string>
+  <string name="plus_gallery_folders_showsection">Gizle</string>
   <string name="plus_gallery_mediatype_aimusic">Film müzikleri</string>
   <string name="plus_gallery_mediatype_changtu">Uzun görüntüler</string>
   <string name="plus_gallery_mediatype_fangtu">Kare görüntüleri</string>
@@ -601,7 +634,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="plus_player_detail_file_location">"Konum: "</string>
   <string name="plus_player_detail_file_name">"Dosya adı: "</string>
   <string name="plus_player_detail_file_param">"Parametreler: "</string>
-  <string name="plus_player_detail_file_path">"Yol:</string>
+  <string name="plus_player_detail_file_path">\"Yol:</string>
   <string name="plus_player_detail_file_time">"Zaman damgası: "</string>
   <string name="plus_player_hide">Gizle</string>
   <string name="plus_player_pip_unsupport">PiP, sisteminizin bu sürümünde desteklenmiyor.</string>
@@ -631,6 +664,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="plus_player_subtitle_local_add_success">Altyazı başarıyla eklendi</string>
   <string name="plus_player_subtitle_no_file">Burada altyazı yok.</string>
   <string name="plus_player_subtitle_online">Çevrimiçi altyazılar</string>
+  <string name="plus_player_subtitle_online_declare_content">Aradığınız &lt;br/>altyazılar &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>Tüm altyazıların kaynağı &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
   <string name="plus_player_subtitle_online_declare_title">Feragat</string>
   <string name="plus_player_subtitle_online_download_fail">Altyazılar indirilemedi</string>
   <string name="plus_player_subtitle_online_download_start">Altyazı indiriliyor…</string>
@@ -681,11 +715,14 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="receive_mipush">Anlık bildirimler alın</string>
   <string name="receive_mipush_summary">Popüler videolar hakkında bildirim almak için açın</string>
   <string name="recently_watch">Oynatma geçmişi</string>
+  <string name="recommend">Öneriler</string>
+  <string name="recommend_author">İlginç kanallara bir göz atın</string>
   <string name="redpacgage">Kırmızı paketler</string>
   <string name="reload_sub_title">Tekrar denemek için dokunun.</string>
   <string name="reload_title">Ağa bağlanılamadı.</string>
   <string name="remove_card_tips">Bu türden öğeleri daha az göreceksiniz</string>
   <string name="remove_card_withdraw">Geri al</string>
+  <string name="reply">"%s yanıtla: "</string>
   <string name="reply_comment_title">Yeniden: %s</string>
   <string name="resolution">çözünürlük</string>
   <string name="resolution_720">720p</string>
@@ -700,8 +737,7 @@ Gelen kutunuza bağlantı gönderdik."</string>
   <string name="screen_shot_failure">çekim hatası!</string>
   <string name="screen_shot_failure_tips">os sistem sürümünüz çok düşük, çekim yapamıyor</string>
   <string name="screen_shot_success">çekimi bitir!</string>
-  <string name="search_empty_data">"\"%s\" bulunamadı.
-Başka bir şey aramayı deneyebilirsiniz."</string>
+  <string name="search_empty_data">\"%s\" bulunamadı.\nBaşka bir şey aramayı deneyebilirsiniz.</string>
   <string name="search_float_tip">İhtiyacın olanı bulamıyor musun?</string>
   <string name="search_float_tip_feedback">Geri bildirim ver</string>
   <string name="search_float_tip_global_search">Çevrimiçi arama</string>
@@ -709,6 +745,9 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="search_key_forbidden">\"%s\" için arama sonuçları gizlendi</string>
   <string name="search_menu_title">Arama</string>
   <string name="search_settings">Video;Video ayarları;mobil veri; anlık;anlık bildirimler;bildirimler;önbellek;kullanıcı deneyimi;kullanıcı deneyimi;wifi;Wi-Fi</string>
+  <string name="send_comment_default_txt">Yorum yaz</string>
+  <string name="send_diagnosis_log">Tanı günlüğü gönder</string>
+  <string name="sending">Gönderiliyor…</string>
   <string name="server_summary">Sunucuyu Seç</string>
   <string name="server_switch">Sunucu</string>
   <string name="setting">Ayarlar</string>
@@ -734,6 +773,10 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="slid_fail_message">Video kaydedilemedi</string>
   <string name="slide_save_message">Video oluşturuluyor…</string>
   <string name="sliding_on_unlock">Kilidi açmak için yukarı kaydırın</string>
+  <string name="small_video_app_continue_download">Devam et</string>
+  <string name="small_video_app_installing">Yükleniyor…</string>
+  <string name="small_video_app_open">Aç</string>
+  <string name="small_video_app_play">Deneyin</string>
   <string name="small_video_author_des_default">Daima harika bir şeyin olacağına inan</string>
   <string name="small_video_check_network">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="small_video_guide_click_heart">Videoyu beğenmek için iki kez dokunun</string>
@@ -744,14 +787,17 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="small_video_no_interested">İlgilenmiyorum</string>
   <string name="small_video_no_interested_msg">Bu tür videoların daha az görünmesini sağlamak için dokunun</string>
   <string name="small_video_no_interested_success">Bu tür videolar daha az sıklıkla görünecek</string>
+  <string name="small_video_not_support_comment">Bu reklama yorum eklenemiyor</string>
+  <string name="small_video_not_support_share">Bu reklam paylaşılamıyor</string>
   <string name="small_video_share_report_problem">Rapor</string>
   <string name="small_video_use_mobile_network_btn">Mobil veri MB</string>
   <string name="small_video_use_mobile_network_msg">Video akışı için mobil verilerin kullanılması ek ücretler oluşturabilir.</string>
+  <string name="small_video_view_ad">Daha fazla</string>
+  <string name="small_video_volumn_low">En iyi deneyim için sesi aç</string>
   <string name="source">"Kaynak: "</string>
   <string name="source_ad_after_play">%1$s oynamak üzere(Bl. %2$s)</string>
   <string name="source_ad_count_down">"Reklam: %1$ds | "</string>
-  <string name="splash_ignore">Sonraki</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="splash_ignore">Yoksay</string>
   <string name="stop_live_signal">Telif hakkı sorunları nedeniyle canlı yayın kısıtlandı</string>
   <string name="storage_clear">Boş alan</string>
   <string name="storage_external_sdcard">Harici depolama</string>
@@ -762,23 +808,32 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="storage_total">"Toplam: "</string>
   <string name="storage_unused">%1$s mevcut</string>
   <string name="storage_used">%1$s kullanılan</string>
-  <string name="subtitle_add_subtitle_failed">Altyazı eklemek başarısız oldu. Dosyanın bozuk doğrulayın.</string>
+  <string name="subscribe">Abone ol</string>
+  <string name="subscribe_failed">Abone olunamadı</string>
+  <string name="subscribe_link">Tüm abonelikleri görüntüle</string>
+  <string name="subscribed">Abone</string>
+  <string name="subtitle_add_subtitle_failed">Altyazı eklenemedi. Dosyanın bozuk olmadığından emin olun.</string>
   <string name="subtitle_changed">Yeni altyazı</string>
   <string name="subtitle_current_dir">Geçerli klasör</string>
+  <string name="subtitle_dilog_save">Altyazılar bütünleştiriliyor…</string>
+  <string name="subtitle_edit_display">Altyazıları göster</string>
+  <string name="subtitle_edit_edit">Altyazıları düzenle</string>
+  <string name="subtitle_edit_hide">Altyazıları gizle</string>
+  <string name="subtitle_edit_literal_edit">Metni düzenle</string>
   <string name="subtitle_folder_up">Önceki klasör</string>
-  <string name="subtitle_font_color_title">Metnin rengini</string>
-  <string name="subtitle_font_size_title">Metnin boyutunu</string>
-  <string name="subtitle_manual_add_sub">Ek altyazı</string>
+  <string name="subtitle_font_color_title">Metin rengi</string>
+  <string name="subtitle_font_size_title">Metin boyutu</string>
+  <string name="subtitle_manual_add_sub">Altyazılar başarıyla eklendi</string>
   <string name="subtitle_no_subtitle">Altyazı kullanılabilir değil</string>
-  <string name="subtitle_non_subtitle_file">Altyazı dosya yok</string>
+  <string name="subtitle_non_subtitle_file">Altyazı dosyası yok</string>
   <string name="subtitle_offset_add_1s">+1s</string>
   <string name="subtitle_offset_add_dot5s">+0.5s</string>
   <string name="subtitle_offset_normal">Altyazı zamanı değişmiyor</string>
   <string name="subtitle_offset_sub_1s">-1s</string>
   <string name="subtitle_offset_sub_dot5s">-0.5s</string>
   <string name="subtitle_onlinesub_language">Dil: %s</string>
-  <string name="subtitle_onlinesub_loading">Altyazı yükleniyor…</string>
-  <string name="subtitle_onlinesub_loading_wait">Altyazı yükleniyor…</string>
+  <string name="subtitle_onlinesub_loading">Altyazılar yükleniyor…</string>
+  <string name="subtitle_onlinesub_loading_wait">Altyazılar yükleniyor…</string>
   <string name="subtitle_onlinesub_right_declare">Feragat</string>
   <string name="subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/>&lt;br/>&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> adresinden edinin. &lt;br/>&lt;br/>Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> tarafından sağlanmaktadır.</string>
   <string name="subtitle_onlinesub_save_failed">Altyazılar eklenemiyor</string>
@@ -803,6 +858,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="t_check_delete_history">Temizleme için kayıtları seçin</string>
   <string name="t_check_hide_file">Gizlenecek videoyu seçin</string>
   <string name="t_check_send_file">Göndermek istediğiniz öğeyi seçin</string>
+  <string name="t_check_send_file_only_one">Bir seferde yalnızca bir öğe gönderebilirsiniz. Tekrar seçin.</string>
   <string name="t_check_unhide_file">Gösterilecek videoları seçin</string>
   <string name="t_comment_success">Başarıyla gönderildi</string>
   <string name="t_deleting">Siliniyor…</string>
@@ -827,6 +883,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="tag_key">Anahtar kelimeler</string>
   <string name="tag_object">Etiketli nesneler</string>
   <string name="temp_play_history_button_label">Geçmiş</string>
+  <string name="temporary_not_available">geçici olarak mevcut değil</string>
   <string name="tencent_shortcut_name">Tencent</string>
   <string name="theme_id">com.miui.video.theme.01</string>
   <string name="this_source_none_ad">Reklam olmadan</string>
@@ -856,7 +913,15 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="top_status_local_media">Yerel</string>
   <string name="top_status_offline_media">Çevrimdışı</string>
   <string name="top_status_online_media">Çevrimiçi</string>
+  <string name="tracker_log">İstatistikler</string>
   <string name="tuesday">Salı</string>
+  <string name="tv_author">Kanallar</string>
+  <string name="tv_my_subscribe">Aboneliklerim</string>
+  <string name="tv_no_subscribed">Henüz burada abonelik yok</string>
+  <string name="tv_subscribe">Abonelikler</string>
+  <string name="tv_tip_subscribe_author_subtitle">En yeni videoları görüntülemek için abone olun</string>
+  <string name="tv_tip_subscribe_author_title">İşte bazı iyi kanallar</string>
+  <string name="tv_unsubscribe">Abonelik yok</string>
   <string name="ui_card_banner_btn_download">indir</string>
   <string name="ui_card_banner_btn_downloading">indiriliyor</string>
   <string name="ui_card_banner_btn_open">aç</string>
@@ -866,6 +931,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="unfinished_offline_network_disable">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="unfinished_offline_network_not_wifi">Mobil veri kullanılarak bölüm indirilemiyor.</string>
   <string name="unknow">Bilinmeyen</string>
+  <string name="unsubscribe_failed">Abonelikten çıkılamadı</string>
   <string name="unzip_file_failure">Dosya açılamıyor</string>
   <string name="url_access_failed">Adresi alınamadı, müşteri servisine bağlanın</string>
   <string name="use_cellular_network_summary">Videoları indirmek için mobil veri bağlantısını kullanın. Bu mobil veri kullanımını artıracaktır.</string>
@@ -900,10 +966,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="v_canceled">İptal edildi</string>
   <string name="v_category">Kategoriler</string>
   <string name="v_change_mobile_net_setting">Ayarlar</string>
-  <string name="v_clause_info">1. Sohu TV, iQiyi ve diğer içerik sağlayıcılar tarafından sağlanan çevrimiçi hizmetleri kullanabilmek için, <a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">Kullanıcı Sözleşmesini</a> ve <a href="https://privacy.mi.com/all/">Gizlilik Politikasını</a> kabul etmelisiniz".
-2. Cihazınız hakkındaki bilgileri ve Mi Videoyu kullanma şeklinizi toplayacağız. İçerik sağlayıcılar cihaz kimliğinizi alır.
-3.  Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir.
-4. Mi Video, video akışı yapabilmek için bir HD video eklentisi indirmeli ve kurmalıdır."</string>
+  <string name="v_clause_info">1. Sohu TV, iQiyi ve diğer içerik sağlayıcılar tarafından sağlanan çevrimiçi hizmetleri kullanabilmek için, &lt;a href=\"https://a.video.xiaomi.com/mvideo/user_agreement.html\">Kullanıcı Sözleşmesini&lt;/a> ve &lt;a href=\"https://privacy.mi.com/all/\">Gizlilik Politikasını&lt;/a> kabul etmelisiniz\".\n2. Cihazınız hakkındaki bilgileri ve Mi Videoyu kullanma şeklinizi toplayacağız. İçerik sağlayıcılar cihaz kimliğinizi alır.\n3.  Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir.\n4. Mi Video, video akışı yapabilmek için bir HD video eklentisi indirmeli ve kurmalıdır.\"</string>
   <string name="v_clause_notips">Tekrar gösterme</string>
   <string name="v_clause_title">Şartlar ve koşullar</string>
   <string name="v_click_channel_scrol_to_top">En üste geri gitmek için tekrar dokunun.</string>
@@ -914,14 +977,16 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="v_clubber">VIP</string>
   <string name="v_clubber_center">VIP profili</string>
   <string name="v_coin_asset_desc">Hesap</string>
-  <string name="v_coin_cash_desc">Nakit alma</string>
+  <string name="v_coin_cash_desc">Nakit al</string>
   <string name="v_coin_market">Mağaza</string>
-  <string name="v_coin_market_desc">Kurtarma</string>
+  <string name="v_coin_market_desc">Kurtar</string>
   <string name="v_coin_name">Paralar</string>
   <string name="v_coin_signin">Giriş</string>
-  <string name="v_coin_signin_desc">Para alma</string>
+  <string name="v_coin_signin_desc">Para al</string>
   <string name="v_coin_task">Görevler</string>
-  <string name="v_coin_task_desc">Para alma</string>
+  <string name="v_coin_task_desc">Para al</string>
+  <string name="v_confirm_cancel_edit_subtitle_msg">Tüm kaydedilmemiş değişiklikler kaybedilecek. Yine de çıkılsın mı?</string>
+  <string name="v_confirm_cancel_edit_subtitle_title">Editörden çıkılıyor</string>
   <string name="v_confirm_delete_history">Geçmiş kayıtlarını temizle?</string>
   <string name="v_confirm_delete_videos">Öğeler silinsin mi?</string>
   <string name="v_confirm_hide_videos">Videoları gizle?</string>
@@ -935,6 +1000,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="v_delete">Sil</string>
   <string name="v_delete_action_text">Sil (%d)</string>
   <string name="v_detail_network_failed">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+  <string name="v_developer_options">Geliştirici Seçenekleri</string>
   <string name="v_download_need_vip_">Bu videoyu ücretsiz olarak indirmek için Mi Video aboneliğini alın.</string>
   <string name="v_enter_detail">Ayrıntılar</string>
   <string name="v_episode">Bölüm</string>
@@ -949,8 +1015,7 @@ Başka bir şey aramayı deneyebilirsiniz."</string>
   <string name="v_exitapp_shortcut">Ücretsiz TV şovları</string>
   <string name="v_exitapp_we_provide">İşte size sunabileceğimiz</string>
   <string name="v_feedback_title">Artık bunu neden görmek istemediğinizi seçin.</string>
-  <string name="v_filter_empty">"Sonuçlar bulunamadı.
-Başka bir şey aramayı deneyin."</string>
+  <string name="v_filter_empty">Sonuçlar bulunamadı.\nBaşka bir şey aramayı deneyin.</string>
   <string name="v_find_new_version">Bir güncelleştirme kullanılabilir</string>
   <string name="v_find_videos">Tekrar bakmak videoklibi</string>
   <string name="v_finish">Tamamlandı</string>
@@ -974,6 +1039,7 @@ Başka bir şey aramayı deneyin."</string>
   <string name="v_livetv_choice_channel">Kanal seç</string>
   <string name="v_livetv_play">Canlı</string>
   <string name="v_livetv_playing">Canlı yayın izleniyor</string>
+  <string name="v_livetv_program_disable_msg">Bu program bulunamadı. Önerilerimize bir göz atın.</string>
   <string name="v_livetv_replay">Tekrar</string>
   <string name="v_livetv_replaying">Tekrar izleniyor</string>
   <string name="v_local_folder">Klasörler</string>
@@ -984,8 +1050,8 @@ Başka bir şey aramayı deneyin."</string>
   <string name="v_menu_nolike">İlginç değil</string>
   <string name="v_menu_send">Gönder</string>
   <string name="v_menu_unhide">Göster</string>
-  <string name="v_mobile_net_limit_text">Akım sınırı: %1$s indirildikten sonra kısıtla</string>
-  <string name="v_mobile_net_unlimited_text">Akım sınırı: Yok</string>
+  <string name="v_mobile_net_limit_text">Geçerli sınır: %1$s indirildikten sonra kısıtla</string>
+  <string name="v_mobile_net_unlimited_text">Geçerli sınır: <Data>&lt;font color=#FF0000>Yok&lt;/font></Data></string>
   <string name="v_more">Daha</string>
   <string name="v_my_coin">Benim paralarım</string>
   <string name="v_my_favorite">Favoriler</string>
@@ -1070,6 +1136,7 @@ Başka bir şey aramayı deneyin."</string>
   <string name="video_info_resolution_label">Video Çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama biçimi:</string>
   <string name="video_unshareable">Bu video paylaşılamıyor.</string>
+  <string name="video_volumn_low">En iyi deneyim için sesi aç</string>
   <string name="video_window_mode">Resimli resim</string>
   <string name="video_window_mode_desc">Pencereyi en aza indirgemek için açın</string>
   <string name="vip_agreement">VIP Hizmet Sözleşmesi</string>
@@ -1124,13 +1191,15 @@ Başka bir şey aramayı deneyin."</string>
   <string name="vp_change_resolution_low_successfully">Başarıyla &lt;font color=#0F99FF>düşük kalite&lt;/font> çözünürlüğe geçildi</string>
   <string name="vp_change_resolution_standard_successfully">Başarıyla &lt;font color=#0F99FF>standart kalite&lt;/font> çözünürlüğe geçildi</string>
   <string name="vp_change_resolution_super_successfully">Başarıyla &lt;font color=#0F99FF>UltraHD&lt;/font> çözünürlüğe geçildi</string>
-  <string name="vp_changing_resolution_full_high">&lt;font color=#0F99FF>FullHD&lt;/font> çözünürlüğe geçiliyor&amp;amp;#8230;</string>
-  <string name="vp_changing_resolution_high">&lt;font color=#0F99FF>yüksek kalite&lt;/font> çözünürlüğe geçiliyor&amp;amp;#8230;</string>
-  <string name="vp_changing_resolution_low">&lt;font color=#0F99FF>düşük kalite&lt;/font> çözünürlüğe geçiliyor&amp;amp;#8230;</string>
-  <string name="vp_changing_resolution_standard">&lt;font color=#0F99FF>standart kalite&lt;/font> çözünürlüğe geçiliyor&amp;amp;#8230;</string>
-  <string name="vp_changing_resolution_super">&lt;font color=#0F99FF>UltraHD&lt;/font> çözünürlüğe geçiliyor&amp;amp;#8230;</string>
+  <string name="vp_changing_resolution_full_high">&lt;font color=#0F99FF>FullHD&lt;/font> çözünürlüğe geçiliyor&amp;#8230;</string>
+  <string name="vp_changing_resolution_high">&lt;font color=#0F99FF>yüksek kalite&lt;/font> çözünürlüğe geçiliyor&amp;#8230;</string>
+  <string name="vp_changing_resolution_low">&lt;font color=#0F99FF>düşük kalite&lt;/font> çözünürlüğe geçiliyor&amp;#8230;</string>
+  <string name="vp_changing_resolution_standard">&lt;font color=#0F99FF>standart kalite&lt;/font> çözünürlüğe geçiliyor&amp;#8230;</string>
+  <string name="vp_changing_resolution_super">&lt;font color=#0F99FF>UltraHD&lt;/font> çözünürlüğe geçiliyor&amp;#8230;</string>
   <string name="vp_client_message">%1$s istemcisi yüklensin mi?</string>
   <string name="vp_closedialog">Tamam</string>
+  <string name="vp_collect_guid_dialog_confirm">Favorilere ekle</string>
+  <string name="vp_collect_guid_dialog_content">Bir dahaki sefere geri getirebilmek için bu öğeyi favorilere ekle.</string>
   <string name="vp_collections">Dizi</string>
   <string name="vp_confirm">Tamam</string>
   <string name="vp_content_description">Açıklama</string>
@@ -1170,9 +1239,12 @@ Başka bir şey aramayı deneyin."</string>
   <string name="vp_media_type_unsported">Bu medya tipi desteklenmiyor</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Ekrana yansıt</string>
+  <string name="vp_mobile_network_using_auto_play">Cihaz bu hafta Wi-Fi\'ya bağlı olmadığında videoları otomatik olarak oynat</string>
   <string name="vp_mobile_network_using_free_service">Diğer seçenekler</string>
   <string name="vp_mobile_network_using_negative">İptal</string>
-  <string name="vp_mobile_network_using_positive">Devam</string>
+  <string name="vp_mobile_network_using_playing">Bu videoyu %1$s içinde oynatmak için mobil veri kullanılacak</string>
+  <string name="vp_mobile_network_using_positive">Mobil veri kullan</string>
+  <string name="vp_mobile_network_using_positive_data_comsume">%1$s Mobil veri kullan</string>
   <string name="vp_mobile_network_using_positive_new">%1$s mobil veri</string>
   <string name="vp_mobile_network_using_warning">Mobil veri bağlantısı kullanarak videoları izlemek veri tüketimini artıracaktır. Eğer planlarınız veri sınırı üzerine çıkarsa, operatörünüz sizeden ek ücret talep edebilir.</string>
   <string name="vp_mobile_network_using_warning_line_1">Mobil veri bağlantısı kullanarak videoları izlemek veri tüketimini artıracaktır.</string>
@@ -1226,6 +1298,9 @@ Başka bir şey aramayı deneyin."</string>
   <string name="vp_skip">Girişi ve Yapımcıları Atla</string>
   <string name="vp_skip_play_time">Krediyi atla</string>
   <string name="vp_skip_play_time_hint">Bu özellik bazı videolar tarafından desteklenmiyor</string>
+  <string name="vp_speed">2X hızında oynatılıyor…</string>
+  <string name="vp_speed_guidance">Oynatma hızını değiştirmek için ekrana basılı tutun</string>
+  <string name="vp_speed_toast">Zaten 2X hızında oynatılıyor</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_start_error_msg">Bu video oynatılamıyor</string>
   <string name="vp_super_definition">UltraHD</string>
@@ -1245,6 +1320,7 @@ Başka bir şey aramayı deneyin."</string>
   <string name="vp_video_plugin_install_text">%s hazırlanıyor…</string>
   <string name="vp_video_plugin_installation">%1$s yükleniyor…</string>
   <string name="vp_video_plugin_source">İçerik %s tarafından sağlanıyor</string>
+  <string name="vp_video_wonderful_content">Oynatmak için dokunun</string>
   <string name="vp_VideoView_error_button">Tamam</string>
   <string name="vp_VideoView_error_network_not_available">Ağa bağlanamıyor</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Bu dosya türü desteklenmiyor.</string>
@@ -1252,33 +1328,4 @@ Başka bir şey aramayı deneyin."</string>
   <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
   <string name="wednesday">Çarşamba</string>
   <string name="yesterday">Dün</string>
-  <string name="all_comments">Tüm yorumlar</string>
-  <string name="close_sub_comments">Gizle</string>
-   <string name="copy">Kopyala</string>
-  <string name="delete">Sil</string>
-  <string name="have_no_more_comments">Şimdilik bu kadar</string>
-  <string name="just_now">Az önce</string>
-  <string name="menu_item_enable_auto_change_resolution">Çözünürlüğü otomatik olarak ayarla</string>
-  <string name="new_app_update_button_text">Şimdi güncelle</string>
-  <string name="new_app_update_title">Bir güncelleme mevcut</string>
-  <string name="no_comments">Burada henüz yorum yok. İlkini bırakabilirsin.</string>
-  <string name="open_more_comments">Daha fazla yorum</string>
-  <string name="plus_gallery_folders_showall">Tümünü görüntüle</string>
-  <string name="plus_gallery_folders_showsection">Gizle</string>
-  <string name="reply">"%s yanıtla: "</string>
-  <string name="send_comment_default_txt">Yorum yaz</string>
-  <string name="small_video_app_continue_download">Devam et</string>
-  <string name="small_video_app_installing">Yükleniyor…</string>
-  <string name="small_video_app_open">Aç</string>
-  <string name="small_video_app_play">Deneyin</string>
-  <string name="small_video_not_support_comment">Bu reklama yorum eklenemiyor</string>
-  <string name="small_video_not_support_share">Bu reklam paylaşılamıyor</string>
-  <string name="small_video_view_ad">Daha fazla</string>
-  <string name="small_video_volumn_low">En iyi deneyim için sesi aç</string>
-  <string name="t_check_send_file_only_one">Bir seferde yalnızca bir öğe gönderebilirsiniz. Tekrar seçin.</string>
-  <string name="v_livetv_program_disable_msg">Bu program bulunamadı. Önerilerimize bir göz atın.</string>
-  <string name="vp_speed">2X hızında oynatılıyor…</string>
-  <string name="vp_speed_guidance">Oynatma hızını değiştirmek için ekrana basılı tutun</string>
-  <string name="vp_speed_toast">Zaten 2X hızında oynatılıyor</string>
-  <string name="vp_video_wonderful_content">Oynatmak için dokunun</string>
 </resources>

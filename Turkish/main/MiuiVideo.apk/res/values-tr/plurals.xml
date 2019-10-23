@@ -108,4 +108,20 @@
     <item quantity="other">%d yorumları görüntüle</item>
     <item quantity="one">%d yorumları görüntüle</item>
   </plurals>
+    <plurals name="fans_count">
+        <item quantity="other">%d takipçi</item>
+        <item quantity="one">%d takipçi</item>
+    </plurals>
+    <plurals name="tv_show_subscribed_author_video">
+        <item quantity="other">%d kanalına abone oldu. Videoları görüntülemek için dokunun.</item>
+        <item quantity="one">%d kanalına abone oldu. Videoları görüntülemek için dokunun.</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="vp_video_tencent_loading">
+        <item quantity="other">%1$d saniye içinde %2$s oynatılmaya başlıyor</item>
+        <item quantity="one">%1$d saniye içinde %2$s oynatılmaya başlıyor</item>
+    </plurals>
 </resources>
