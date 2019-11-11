@@ -85,6 +85,7 @@
   <string name="class_0_message_activity">Sınıf 0 mesajı</string>
   <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
   <string name="close">Kapat</string>
+  <string name="cloud_recommend_view_tip">Önemli mesajları istediğiniz zaman geri yüklemek için bulutla eşitlemeyi açın</string>
   <string name="cloud_state_disabled">Mesajları eşitlemek için bulutla eşitlemeyi aç</string>
   <string name="cloud_state_sync_finished">Xiaomi Bulut ile eşitlendi</string>
   <string name="cloud_state_syncing">Xiaomi Bulut ile eşitleniyor…</string>
@@ -850,6 +851,7 @@
   <string name="block_number_message">Bu telefon numarası engelli listesine eklenecek. Bu numaradan gönderilen tüm mesajlar engellenir.</string>
   <string name="block_tag_message">%s üzerinden gönderilen tüm mesajlar engellenecek. Bu servis tarafından gönderilen doğrulama kodlarını veya faturalarını alamayabilirsiniz.</string>
   <string name="confirm_upload_sms">Engelleme listesi işlevselliğini geliştirmek için mesajlar yükleyin</string>
+  <string name="contact_card_unknown_contact">Bilinmeyen kişi</string>
   <string name="delete_block_conversation">Bu sohbeti sil</string>
   <string name="error_field_required">Gerekli</string>
   <string name="error_incorrect_otp">Yanlış kod</string>
