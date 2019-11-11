@@ -248,7 +248,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="airplane_mode">Uçak modu</string>
   <string name="alarm_ringtone_title">Varsayılan alarm zil sesi</string>
   <string name="alarm_sound_dialog_title">Alarmı seçiniz</string>
-  <string name="alarm_sound_title">Alarm Sesi</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Alarm zil sesi sessiz modda sonlandırabilir</string>
   <string name="alarm_stop_info">Alarm ayar bitmeden çalıyor olması durumunda,sessiz mod sonlandırılabilir</string>
   <string name="alarm_volume_option_title">Alarm sesi</string>
@@ -1665,8 +1665,22 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="doze_title">Her zaman açık ekran</string>
   <string name="draw_overlay">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
-  <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
-  <string name="edge_mode_back">Geri Dön</string>
+  <string name="dtmf_tone_enable_title">Tuş takımı sesleri</string>
+  <string name="dual_wifi">Çift WLAN ağ hızlandırma</string>
+  <string name="dual_wifi_acceleration">Bağımlı WLAN hızlandırma</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Bağımlı WLAN mevcut</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Bağımlı WLAN mevcut(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Bağımlı WLAN mevcut(5G)</string>
+  <string name="dual_wifi_enabler_summary">Aynı anda hızlanma için iki WLAN kullanın</string>
+  <string name="dual_wifi_off">Kapalı</string>
+  <string name="dual_wifi_on">Açık</string>
+  <string name="dual_wifi_primary_wifi_connected">Birincil WLAN bağlı</string>
+  <string name="dual_wifi_slave_wifi_connected">Bağımlı WLAN bağlı</string>
+  <string name="dual_wifi_summary">Birincil WLAN\'a bağlanın, bağımlı WLAN\'ı açın ve ağ hızını artırın.</string>
+  <string name="dual_wifi_switching_not_remind">Bir dahaki sefere ipucu yok</string>
+  <string name="dual_wifi_switching_prompt">WLAN değiştirme istemi</string>
+  <string name="dual_wifi_switching_summary">Çift WLAN\'lar farklı frekans bantları gerektirir ve birincil WLAN\'ın frekans bandını değiştirmek isterseniz, bağımlı WLAN\'ın bağlantısı kesilecektir.</string>
+  <string name="edge_mode_back">Geri dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
   <string name="edge_mode_clean">Sistem Önbelleğini Temizle</string>
   <string name="edge_mode_clean_summary">Aynı anda sistem önbelleği temizlemek için her iki kenardan kaydır</string>
@@ -2800,6 +2814,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="msg_wlan_signal_found">%s bağlansın mı?</string>
   <string name="msim_sim_radio_off">Kapat</string>
   <string name="mtp_ptp_mode_summary">MTP veya PTP fonksiyonu faal</string>
+  <string name="multi_network_acceleration_app_settings">Çoklu ağ hızlandırılmış uygulama yönetimi</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma Noktaları</string>
   <string name="multi_touch_points_preference">Cihazınızı yeniden başlattıktan sonra bu ayar yürürlüğe girecek</string>
   <string name="music_app_unavailable">Müzik uygulamasına bağlı olarak, mevcut olduğundan emin olun</string>
@@ -3632,7 +3647,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="reset_network_desc">Bu, tüm ağ ayarlarını sıfırlar</string>
   <string name="reset_network_final_button_text">Ayarları sıfırla</string>
   <string name="reset_network_final_desc">Tüm ağ ayarları şimdi sıfırlansın mı? Bu birkaç saniye sürebilir. Bu işlemi geri alamazsınız.</string>
-  <string name="reset_network_title">Ağ ayarlarını sıfırla</string>
+  <string name="reset_network_title">WLAN\'ı, mobil ağları ve Bluetooth\'u sıfırla</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">İkinci Alan şifresini sıfırla</string>
   <string name="reset_second_space_passwd_cancel">İptal</string>
@@ -3666,7 +3681,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="retry">Tekrarla</string>
   <string name="ring_volume_title">Zil Sesi</string>
   <string name="ringtone_slot_setting_title">Tekli SIM Ayarları</string>
-  <string name="ringtone_title">Telefon zil sesi</string>
+  <string name="ringtone_title">Zil sesi</string>
   <string name="ringtone_uniform_setting_title">Çif SIM Ayarı</string>
   <string name="ringtones_category_preference_title">Zil sesleri</string>
   <string name="ringtones_install_custom_sound_content">Bu dosya %s klasörüne kopyalanacak</string>
@@ -3716,7 +3731,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_button_tips">Ekran düğmelerini gizlemek için aşağı kaydırın</string>
   <string name="screen_color_and_optimize">Renkler &amp; Karşıtlık</string>
   <string name="screen_color_and_optimize_disabled">Okuma modunda renk sıcaklığı ayarlanamaz</string>
-  <string name="screen_color_temperature">Renkler</string>
+  <string name="screen_color_temperature">Renk sıcaklığı</string>
   <string name="screen_color_temperature_and_saturation">Renkler &amp; Doygunluk</string>
   <string name="screen_compatibility_label">Ekran uyumluluğu</string>
   <string name="screen_compatibility_text">Bu uygulama, ekranınız için tasarlanmamış olabilir. Buradan ekranınıza nasıl uyarlandığını kontrol edebilirsiniz.</string>
@@ -5528,6 +5543,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_menu_wps_pin">WPS Pin Girişi</string>
   <string name="wifi_menu_write_to_nfc">NFC etiketi yazın</string>
   <string name="wifi_more">Daha fazla</string>
+  <string name="wifi_multi_network_acceleration">Akıllı çoklu ağ hızlandırma</string>
   <string name="wifi_multiple_cert_added">(Birden fazla sertifika eklendi)</string>
   <string name="wifi_network_optimization">Optimize edilmiş bağlantı</string>
   <string name="wifi_network_prefix_length">Önek uzunluğu</string>

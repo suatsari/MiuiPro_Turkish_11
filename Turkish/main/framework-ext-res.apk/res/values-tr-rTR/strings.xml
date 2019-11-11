@@ -34,6 +34,7 @@
   <string name="configure_input_methods">Klavye seçin</string>
   <string name="copy">Kopyala</string>
   <string name="cut">Kes</string>
+  <string name="data_usage_context">WLAN açık değilse, cihazınız bir mobil ağa bağlanır ve bu da ödeme planınıza bağlı olarak ek ücretlere neden olabilir.Teşekkürler!</string>
   <string name="default_name">Varsayılan</string>
   <string name="description_title">Sessiz mod</string>
   <string name="eighthours">8 saat</string>
