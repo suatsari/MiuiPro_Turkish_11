@@ -4,7 +4,7 @@
   <string name="ac_enter_applock">Uygulama kilidini girin</string>
   <string name="ac_firstUseApplock_subTitle">Sistem düzeyinde en iyi güvenlik araçlarını kullanın</string>
   <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
-  <string name="ac_mask_all_apps">Tüm uygulamalar için gizle</string>
+  <string name="ac_mask_all_apps">Herkes için gizle</string>
   <string name="ac_notification_contentText">Açmak için dokunun</string>
   <string name="ac_notification_contentTitle">Uygulama kilidi ile uygulamaları koruyun</string>
   <string name="ac_post_notification_contentText">Sistem düzeyinde koruma sağlayın</string>
@@ -13,7 +13,7 @@
   <string name="ac_pre_notification_contentTitle">Uygulama kilidini deneyin</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Korumalı uygulamaları açmak için şifreyi girin</string>
-  <string name="ac_unmask_all_apps">Tüm uygulamalar için göster</string>
+  <string name="ac_unmask_all_apps">Herkes için göster</string>
   <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi ile kilidi açmadan önce şifreyi girin</string>
   <string name="access_control_fingerprint_not_identified_msg">Parmak izi okunamadı.</string>
@@ -1436,8 +1436,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
   <string name="notification_mask_summary">Korunan uygulamalar için bildirim içeriğini görüntüleme</string>
   <string name="notification_mask_title">Bildirim içeriğini gizle</string>
-  <string name="notification_masked_item">Bildirimleri gizle</string>
-  <string name="notification_masked_subtitle">Uygulama kilidi ile korunan uygulamaların bildirimlerini gizle</string>
+  <string name="notification_masked_item">Bildirim içeriği nasıl gizlenir?</string>
+  <string name="notification_masked_subtitle">Seçilen uygulamalarda bildirim içeriğini gizlemek için Uygulama kilidini kullanın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
   <string name="notify_channel_mipush">Güvenlik push mesajları</string>
   <string name="notify_channel_name_security">Sistem güvenliği</string>
@@ -2179,7 +2179,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="still_retain_btn">Tut</string>
   <string name="stop_milink_connect">Yansıtma durduruldu</string>
   <string name="suggest_app_tolock">Öneriler</string>
-  <string name="suggest_app_tolock_masked">Gizli</string>
+  <string name="suggest_app_tolock_masked">İçerik gizlendi</string>
   <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
   <string name="suggest_scan_again">Güvenlik risklerini önlemek için taramayı tamamlayın.</string>
   <string name="summary_app_lock_disable">Verilerinizi Uygulama kilidiyle koruyun</string>
@@ -2636,4 +2636,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_center_5g_save_summary_text">Belirli senaryolarda 5G bağlantısını daha az güç tüketir hale getirin</string>
   <string name="power_center_5g_save_title_text">5G pil tasarrufu</string>
   <string name="process_vpnsdkmanager_label">Oyun Turbo</string>
+  <string name="power_center_scan_item_title_5g">5G bağlantısı</string>
+  <string name="power_dialog_super_save_msg_5g">Ultra pil tasarrufu, cihazınızın performansını düşürerek çoğu güç tüketen özelliği (örneğin 5G bağlantısı) kısıtlar. Yalnızca çağrılarlar, mesajlar ve ağ bağlantısı bundan etkilenmez. Ultra pil tasarrufu açılsın mı?</string>
+  <string name="power_optimize_disable_5g">5G bağlantısını kısıtla</string>
+  <string name="power_save_ps_close_setting_5g">Güç tüketen özellikleri sınırlayın (eşitleme, 5G bağlantısı, GPS)</string>
+  <string name="privacyapp_number_masked_text">Bildirim içeriği gizli</string>
+  <string name="privacyapp_number_unmasked_text">Bildirim içeriği gizlenebilir</string>
 </resources>
