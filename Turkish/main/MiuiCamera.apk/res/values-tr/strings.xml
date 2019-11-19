@@ -72,6 +72,7 @@
   <string name="camera_label">Kamera</string>
   <string name="camera_mode_options">Modlar</string>
   <string name="camera_setting">Kamera</string>
+  <string name="camera_settings_category_development">Deneysel özellikler</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Hızlı çekim modu</string>
   <string name="camera_snap_mode_title_detail">Ayrıntıları görüntülemek için dokunun</string>
@@ -245,6 +246,7 @@
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analog</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_title">Filtreler</string>
+  <string name="pref_camera_common_settings">Genel ayarlar</string>
   <string name="pref_camera_contrast_title">Karşıtlık</string>
   <string name="pref_camera_delay_capture_entry_3s">3s gecikme</string>
   <string name="pref_camera_delay_capture_entry_5s">5s gecikme</string>
@@ -271,7 +273,8 @@
   <string name="pref_camera_exposuretime_entry_250">1/250s</string>
   <string name="pref_camera_exposuretime_entry_500">1/500s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
-  <string name="pref_camera_exposuretime_entry_auto">Otomatik</string>
+  <string name="pref_camera_exposuretime_entry_auto">OTO.</string>
+  <string name="pref_camera_exposuretime_entry_auto_abbr">OTO.</string>
   <string name="pref_camera_face_info_watermark_title">Fotoğrafta yüz bilgilerini göster</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Yüz algılama otomatik gizli</string>
   <string name="pref_camera_facedetection_title">Yüz Tanıma</string>
@@ -282,7 +285,8 @@
   <string name="pref_camera_flashmode_title">Flaş Modu</string>
   <string name="pref_camera_focus_shoot_summary">Odaklamak için hafifçe dokunun, sonra bir fotoğraf çekmek için tekrar dokunun.</string>
   <string name="pref_camera_focus_shoot_title">Odak &amp; çekim</string>
-  <string name="pref_camera_focusmode_entry_auto">Otomatik</string>
+  <string name="pref_camera_focusmode_entry_auto">OTO.</string>
+  <string name="pref_camera_focusmode_entry_auto_abbr">OTO.</string>
   <string name="pref_camera_focusmode_entry_infinity">Sonsuzluk</string>
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_manual">Elle Ayarla</string>
@@ -306,7 +310,8 @@
   <string name="pref_camera_hfr_entry_off">Kapalı</string>
   <string name="pref_camera_histogram_entry_disable">Kapat</string>
   <string name="pref_camera_histogram_entry_enable">Aç</string>
-  <string name="pref_camera_iso_entry_auto">Oto</string>
+  <string name="pref_camera_iso_entry_auto">OTO.</string>
+  <string name="pref_camera_iso_entry_auto_abbr">OTO.</string>
   <string name="pref_camera_iso_entry_iso100">100</string>
   <string name="pref_camera_iso_entry_iso200">200</string>
   <string name="pref_camera_iso_entry_iso400">400</string>
@@ -314,6 +319,7 @@
   <string name="pref_camera_iso_entry_iso1600">1600</string>
   <string name="pref_camera_iso_entry_iso3200">3200</string>
   <string name="pref_camera_iso_title">ISO</string>
+  <string name="pref_camera_iso_title_abbr">ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Yüksek</string>
   <string name="pref_camera_jpegquality_entry_low">Düşük</string>
   <string name="pref_camera_jpegquality_entry_normal">Standart</string>
@@ -351,6 +357,7 @@
   <string name="pref_camera_portrait_with_facebeauty_title">Portre modunda güzelleştir</string>
   <string name="pref_camera_proximity_lock_summary">Cebe yerleştirildiğinde dokunmatik hareketleri kilitle</string>
   <string name="pref_camera_proximity_lock_title">Cep modu</string>
+  <string name="pref_camera_quick_settings">Hızlı ayarlar</string>
   <string name="pref_camera_recordlocation_entry_off">Kapalı</string>
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
   <string name="pref_camera_recordlocation_title">Konum bilgisini sakla</string>
@@ -411,7 +418,8 @@
   <string name="pref_camera_volumekey_function_entry_zoom">Yakınlaştır</string>
   <string name="pref_camera_volumekey_function_title">Ses düğmeleri fonksiyonu</string>
   <string name="pref_camera_watermark_title">Fotoğraflara zaman damgası ekle</string>
-  <string name="pref_camera_whitebalance_entry_auto">Otomatik</string>
+  <string name="pref_camera_whitebalance_entry_auto">OTO.</string>
+  <string name="pref_camera_whitebalance_entry_auto_abbr">OTO.</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bulutlu</string>
   <string name="pref_camera_whitebalance_entry_daylight">Gün Işığı</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Floresan</string>
@@ -419,13 +427,19 @@
   <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
   <string name="pref_camera_whitebalance_entry_measure">Ölçü</string>
   <string name="pref_camera_whitebalance_title">BD</string>
+  <string name="pref_camera_whitebalance_title_abbr">BD</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">DÜŞÜK IŞIK</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
   <string name="pref_camera_zoom_mode_entry_tele">YAKIN</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">2X YAKIN</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">2X YAKIN</string>
+  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">5X YAKIN</string>
+  <string name="pref_camera_zoom_mode_entry_tele_abbr">YAKIN</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">5X YAKIN</string>
   <string name="pref_camera_zoom_mode_entry_wide">GENİŞ</string>
+  <string name="pref_camera_zoom_mode_entry_wide_abbr">GENİŞ</string>
   <string name="pref_camera_zoom_mode_title">LENS</string>
+  <string name="pref_camera_zoom_mode_title_abbr">LENS</string>
   <string name="pref_camera_zoom_value_title">Yakınlaştır</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
@@ -440,9 +454,11 @@
   <string name="pref_front_mirror_title">Ayna ön kamera</string>
   <string name="pref_groupshot_with_primitive_title">Orijinal fotoğrafları da kaydet</string>
   <string name="pref_manual_exposure_title">S</string>
+  <string name="pref_manual_exposure_title_abbr">S</string>
   <string name="pref_popup_camera_title">Pop-up kamera</string>
   <string name="pref_priority_storage_title">SD karta kaydet</string>
   <string name="pref_qc_focus_position_title">Odakla</string>
+  <string name="pref_qc_focus_position_title_abbr">Odakla</string>
   <string name="pref_retain_camera_mode_summary">Uygulamayı açtığınızda kamerayı önceden kullanılan moda geçirin.</string>
   <string name="pref_retain_camera_mode_title">Önceki modu kaydet</string>
   <string name="pref_scan_qrcode_summary">Arka kamera QR kodlarını yalnızca \"Fotoğraf\" modunda tarayabilir.</string>
@@ -643,6 +659,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="accessibility_camera_liveshot_on">Dinamik çekim açıldı</string>
   <string name="accessibility_camera_liveshot_off">Dinamik çekim kapatıldı</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GENİŞ</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">UG</string>
   <string name="ultra_wide_recommend_tip_hint">Ultra geniş açı modunu deneyin</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Tam vücut modu açık</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Tam vücut modu kapalı</string>
@@ -881,6 +898,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="beauty_clear_toast">Güzelleştirme efekti başarıyla temizlendi</string>
   <string name="edit_hairline">Saç çizgisi</string>
   <string name="pref_camera_zoom_mode_entry_macro">MAKRO</string>
+  <string name="pref_camera_zoom_mode_entry_macro_abbr">MAKRO</string>
   <string name="lying_direct_hint">Geçerli oryantasyon</string>
   <string name="calibration_guide_tittle">Kalibre edilmemiş kamera</string>
   <string name="calibration_hint_usage">Kalibre edilmemiş kamera, görüntü kalitesi üzerinde olumsuz bir etki yaratacaktır. Lütfen satış sonrası servis ile irtibata geçin.</string>

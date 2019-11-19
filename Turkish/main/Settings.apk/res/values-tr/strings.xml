@@ -405,6 +405,9 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="applications_settings">Uygulamaları yönet</string>
   <string name="applications_settings_header">Uygulama ayarları</string>
   <string name="applications_settings_summary">Uygulamaları yönet, hızlı başlatma kısayollarını ayarla</string>
+  <string name="applications_settings_title">Uygulamalar</string>
+  <string name="apply">Uygula</string>
+  <string name="apply_fingerprint_to">Parmak izlerini kullanmak için</string>
   <string name="apply_fingerprint_to_category_title">Parmak izi uygulanacak alanlar</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
@@ -1746,8 +1749,12 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="encryption_interstitial_no">Hayır</string>
   <string name="encryption_interstitial_yes">Evet</string>
   <string name="encryption_progress_summary">Şifreleniyor, cihazınızı yeniden başlatmayın.</string>
-  <string name="enhanced_4g_lte_mode_summary">Ses ve diğer iletişimi artırmak için LTE hizmetlerini kullanın (önerilir)</string>
-  <string name="enhanced_4g_lte_mode_title">Gelişmiş 4G LTE Modu</string>
+  <string name="enhanced_4g_lte_mode_summary">Ses ve diğer iletişimleri geliştirmek için LTE servislerini kullanın (önerilir)</string>
+  <string name="enhanced_4g_lte_mode_summary_4g_calling">Ses ve diğer iletişimleri geliştirmek için 4G servislerini kullanın (önerilir)</string>
+  <string name="enhanced_4g_lte_mode_title">VoLTE</string>
+  <string name="enhanced_4g_lte_mode_title_4g_calling">4G Arama</string>
+  <string name="enhanced_4g_lte_mode_title_advanced_calling">Gelişmiş Arama</string>
+  <string name="enrol_fingerprint_data">Parmak izi ekle</string>
   <string name="enter_password">Android\'i başlatmak için şifrenizi girin</string>
   <string name="enter_pattern">Android\'i başlatmak için deseninizi çizin</string>
   <string name="enter_pin">Android\'i başlatmak için PIN\'inizi girin</string>
@@ -2651,8 +2658,9 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="max_cpu8_info">"Azami 8 Çekirdek "</string>
   <string name="max_cpu10_info">"Azami 10 Çekirdek "</string>
   <string name="max_fingerprint_number_reached">Parmak izi 5\'ten fazla eklenemez. Parmak izi eklemek için, önce mevcut Parmak izini silin.</string>
-  <string name="maximum_memory_use">Azami Hafıza kullanımı</string>
-  <string name="media_button">Medya Tuşu</string>
+  <string name="max_fingerprint_reached_toast">5 taneye kadar parmak izi ekleyebilirsiniz.</string>
+  <string name="maximum_memory_use">Maksimum hafıza kullanımı</string>
+  <string name="media_button">Medya tuşu</string>
   <string name="media_category">Medya</string>
   <string name="media_feedback_enable_title">Ritimle titreştir</string>
   <string name="media_volume_summary">Müzik ve videolar için sesi ayarla</string>
@@ -6674,7 +6682,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="aod_and_lock_screen_settings_title">Her zaman açık ekran &amp; Kilit ekranı</string>   
   <string name="aod_settings_category_name">Her zaman açık ekran</string> 
   <string name="aod_settings_title">Her zaman açık ekran</string>
-  <string name="applications_settings_title">Uygulamalar</string>
   <string name="feedback_settings">Hizmetler &amp; geri bildirim</string>
   <string name="full_screen_display">Tam ekran modu</string>
   <string name="game_booster_title">Oyun Turbo</string>
