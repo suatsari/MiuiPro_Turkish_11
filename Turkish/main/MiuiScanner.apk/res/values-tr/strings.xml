@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Approval">Uygula</string>
+  <string name="Xiaomi_account_pending_approval">Uygulamayı gözden geçir</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
@@ -22,8 +24,12 @@
   <string name="accessibility_shutter_button">Deklanşör</string>
   <string name="action_search">Ara</string>
   <string name="address">Adres:</string>
+  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
   <string name="agree_btn">Kabul</string>
+  <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
+  <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>
   <string name="aliusersdk_api_unauthorized">Yetkisiz API</string>
+  <string name="always">Her zaman</string>
   <string name="amazon_assistant_shopping_title">Amazon\'da ara</string>
   <string name="app_description_content">Tarayıcı, QR kodlarını, belgeleri, kartvizitleri ve daha fazlasını taramanıza izin verir. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="app_description_title">Tarayıcı hakkında</string>
@@ -44,8 +50,12 @@
   <string name="call_anyone">Çağrı</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="cancel">İptal</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
+  <string name="check_for_updates">Beta güncellemelerini kontrol et</string>
+  <string name="choose_open_code_app">Bir uygulama seçin</string>
   <string name="choose_pay_title">Ödeme yöntemini seçin</string>
   <string name="choose_picture">QR kod resmini seçin</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
   <string name="com_taobao_tae_sdk_alert_message">Zaman aşımı, lütfen tekrar çalıştırın</string>
   <string name="com_taobao_tae_sdk_authorize_title">Giriş izni</string>
   <string name="com_taobao_tae_sdk_loading_progress_message">Yükleniyor</string>
@@ -61,6 +71,7 @@
   <string name="contact_details">QR kodu iletişim:</string>
   <string name="continue_access_web_url">Web sitesine git</string>
   <string name="continue_to_website">Web sitesine git</string>
+  <string name="continue_waiting">Beklemeye devam edin</string>
   <string name="copy_text">Metni kopyala</string>
   <string name="copy_text_success">Metin kopyalandı</string>
   <string name="crop_cancel_description">İptal</string>
@@ -85,6 +96,8 @@
   <string name="document_title">Belgenin bir fotoğrafını çekin</string>
   <string name="document_top_panel_title">Belge fotoğrafı</string>
   <string name="done">Bitti</string>
+  <string name="download_stable_version">Kararlı sürüm kullan</string>
+  <string name="download_use_stable_version">Kararlı sürümü indir</string>
   <string name="drag_barcode_into_frame">Çerçeveyi koda uyacak şekilde sürükleyin</string>
   <string name="drag_crop_to_business_card">Kırpmak için sürükleyin</string>
   <string name="email">E-Posta:</string>
@@ -95,15 +108,33 @@
   <string name="error_media_storage_failure">Fotoğraf kaydedilemedi</string>
   <string name="error_permissions">Tarayıcı normal çalışması için gerekli izinlere sahip değil. Devam etmek için Ayarlar\'a gidin ve izinleri kontrol edin.</string>
   <string name="error_server_error">Bir sunucu hatası oluştu.</string>
+  <string name="experience_new_feature_tips">Beta sürümünü kullanma izinlerini almak için Mi Hesabınıza giriş yapın. Başvurunuzu inceledikten sonra Beta sürümünü kullanabileceksiniz. Beta sürümü hatalar içerebilir.</string>
+  <string name="experience_new_features">Beta sürüm</string>
+  <string name="experiential_version_of_the_prompt_content">Tarayıcı Beta\'ya erişmek için Mi Hesabınıza giriş yapın. Şimdi giriş yapılsın mı?</string>
+  <string name="failed_to_get_xiaomi_account">Oturum açılamadı</string>
   <string name="fax">Faks</string>
   <string name="feed_search_fail">Sonuç yok, yeniden deneyin</string>
+  <string name="feedback">Geri bildirim</string>
   <string name="feedback_description_camera_access">Tarayıcı Kameraya bağlanamıyor</string>
   <string name="feedback_description_save_photo">Fotoğraf veya video kaydedilemedi</string>
+  <string name="feedback_title">Geri bildirim</string>
+  <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken Wi-Fi\'yi manuel olarak açın</string>
+  <string name="food_identification_fail_tips">Meyveleri, sebzeleri ve diğer yiyecekleri tarayın. Bu özellik aynı zamanda görüntülerle de çalışır.</string>
+  <string name="food_identification_tip_msg">Gıda tanınıyor…</string>
+  <string name="food_make_complaints_hint">Buraya geri bildirim girin</string>
+  <string name="food_module_feedback_str">Geri bildirim</string>
+  <string name="food_module_get_more_info">Daha fazla bilgi</string>
+  <string name="food_module_identification_failure">Bu öğe tanınamıyor</string>
+  <string name="food_module_send_feedback">Gönder</string>
+  <string name="food_module_step_on">Beğenme</string>
+  <string name="food_module_thumbs_up">Beğen</string>
+  <string name="food_module_tip">Yiyecekleri çerçevenin içine yerleştirin</string>
+  <string name="food_module_title_food">Kalori</string>
   <string name="got_it">Anladım</string>
   <string name="gps">Gezinin</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
-  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, Gizlilik Politikamızı kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
+  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_title">Gizlilik Politikası</string>
   <string name="keywords_search_code">Tarayıcı; Tarama; QR kodu; QR; Tanıma; Barkod; Barkod; Ürün; Ürünler; Alipay; WeChat; QR kodunu nasıl tarar; Barkod nasıl taranır</string>
@@ -139,12 +170,15 @@
   <string name="name">Adı:</string>
   <string name="new_schedule">Etkinlik oluştur</string>
   <string name="nickname">Takma ad:</string>
+  <string name="no_has_experience_version_permission">Tarayıcı Beta\'yı kullanma izniniz yok. İzinler için başvurun veya kararlı sürümünü indirin.</string>
+  <string name="no_inner_version">Beta sürümü mevcut değil</string>
   <string name="no_network">Ağa bağlanılamıyor</string>
   <string name="no_storage">Dahili depolama yok</string>
   <string name="no_support_to_translate_type">Bu dil desteklenmiyor</string>
   <string name="not_insert_contact">Kişi eklenemedi</string>
   <string name="not_recommend_access_web_url">Yine de git</string>
   <string name="note">Açıklama:</string>
+  <string name="once">Sadece bir kere</string>
   <string name="open_url">Link aç</string>
   <string name="pay_no_tip">Tekrar gösterme</string>
   <string name="pay_save_this_choose">Seçimimi hatırla</string>
@@ -162,9 +196,11 @@
   <string name="pref_camera_jpeg_quality_superfine">çok iyi</string>
   <string name="preparing_sd">SD kart hazırlanıyor…</string>
   <string name="previous">Geri</string>
+  <string name="prompt">Dikkat</string>
   <string name="qr_code_details">QR kod detayları:</string>
   <string name="recognize">Tara</string>
   <string name="recognize_fail">Kod okunamıyor</string>
+  <string name="request_server_failed">Sunucuya bağlanılamadı</string>
   <string name="refresh">Yenile</string>
   <string name="scan_result">Sonuç</string>
   <string name="scan_support_type">WeChat, Alipay, QR kodları, barkodlar</string>
@@ -177,6 +213,7 @@
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Her zaman sor</string>
   <string name="setting_default_function">Varsayılan özellik</string>
+  <string name="setting_function_sort">Özellikleri yeniden düzenle</string>
   <string name="setting_preference_pay">Tercih edilen ödeme yöntemi</string>
   <string name="setting_title">Ayarlar</string>
   <string name="setting_use_last_choose">Önceki seçimi hatırla</string>
@@ -190,10 +227,13 @@
   <string name="study_searching">Sonuçlar aranıyor…</string>
   <string name="study_title">Çözmek istediğiniz sorunu tarayın</string>
   <string name="study_vendor_info">Zuoyebang tarafından desteklenmektedir</string>
+  <string name="suggested_submission_success">Geri bildiriminizi başarıyla gönderildi</string>
   <string name="switch_open">Aç</string>
   <string name="tel">Telefon</string>
   <string name="title">Başlık:</string>
+  <string name="to_install_title">Bu QR kodu sizi kaldırılmış bir uygulamaya yönlendirir. Şimdi bu uygulamayı indirilsin mi?</string>
   <string name="to_pay">Ödemeyi tamamla</string>
+  <string name="toinstall">İndir</string>
   <string name="translate_auto_lock">Çeviriyi kilitle</string>
   <string name="translate_auto_unlock">Çeviri kilidini aç</string>
   <string name="translate_copy_success">Başarıyla kopyalandı</string>
@@ -223,6 +263,7 @@
   <string name="translation_see_more">Tanımlamayı görüntüle</string>
   <string name="translation_type_sentence">İfade</string>
   <string name="translation_type_word">Kelime</string>
+  <string name="uninstall_prompt">Yükleme sırasında sorun oluşursa, Ayarlar &gt; Uygulamalar &gt; Uygulamaları yönet &gt; Tarayıcı\'ya gidin, \"Kaldır\" öğesine dokunun ve uygulamayı tekrar yüklemeyi deneyin.</string>
   <string name="url_is_phish">Bu bir kimlik avı web sitesi olabilir</string>
   <string name="url_is_safety">Bu web sitesi güvenli</string>
   <string name="url_is_unknown">Bu web sitesinin güvenli olup olmadığını kontrol edilemiyor</string>
@@ -231,22 +272,17 @@
   <string name="web">Web sitesi:</string>
   <string name="website_details">Web sitesi:</string>
   <string name="weixin_code_tip">WeChat kullanarak bu QR kodunu tarayın.</string>
+  <string name="welcome_to_thesweepversion">Tarayıcı Beta\'ya Hoş Geldiniz!</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">Bağlantı noktası \"%1$s\" zaten var. Silin ve ardından bağlanmak için kodu tekrar tarayın.</string>
   <string name="wifi_open_fail">Wi-Fi açılmıyor</string>
+  <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
+  <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecektir.)"</string>
   <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string>
-  <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
-  <string name="setting_function_sort">Özellikleri yeniden düzenle</string>
-  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
-  <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
-  <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>
-  <string name="always">Her zaman</string>
-  <string name="choose_open_code_app">Bir uygulama seçin</string>
-  <string name="once">Sadece bir kere</string>
-  <string name="to_install_title">Bu QR kodu sizi kaldırılmış bir uygulamaya yönlendirir. Şimdi bu uygulamayı indirilsin mi?</string>
-  <string name="toinstall">İndir</string>
+  <string name="you_have_permission_to_download">Beta sürümünü indirmek için dokunun</string>
+  <string name="you_id">"Kimliğiniz: "</string>
+  <string name="your_application_is_under_review">" (Başvurunuz inceleniyor.)"</string>
 </resources>

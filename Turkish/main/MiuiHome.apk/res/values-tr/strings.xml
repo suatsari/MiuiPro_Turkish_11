@@ -2,7 +2,24 @@
 <resources>
   <string name="action_add_to_workspace">Çalışma alanına ekle</string>
   <string name="activity_not_found">Uygulama cihazınızda yüklü değil</string>
+  <string name="add">Ekle</string>
+  <string name="add_custom_category">Özelleştir</string>
   <string name="add_screen">Ekran ekle</string>
+  <string name="added_all_category">Tüm uygulamalar başarıyla eklendi</string>
+  <string name="additional_settings">Ek ayarlar</string>
+  <string name="all_app_category_all">Tümü</string>
+  <string name="all_app_category_communication">İletişim</string>
+  <string name="all_app_category_default">Kategori</string>
+  <string name="all_app_category_entertainment">Eğlence</string>
+  <string name="all_app_category_finance_business">Finans &amp; İş</string>
+  <string name="all_app_category_games">Oyunlar</string>
+  <string name="all_app_category_knowledge_education">Bilgi &amp; Eğitim</string>
+  <string name="all_app_category_lifestyle">Yaşam tarzı</string>
+  <string name="all_app_category_news_reading">Haber &amp; Okuma</string>
+  <string name="all_app_category_personalization">Kişiselleştirme</string>
+  <string name="all_app_category_photography">Fotoğrafçılık</string>
+  <string name="all_app_category_shopping">Alışveriş</string>
+  <string name="all_app_category_tools">Araçlar</string>
   <string name="all_apps">Tüm uygulamalar</string>
   <string name="all_apps_no_search_results">Sonuç bulunamadı</string>
   <string name="all_apps_search_app">Uygulamaları ara</string>
@@ -13,6 +30,7 @@
   <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi, Ana ekranda yukarı kaydırılarak açılır. Uygulama çekmecesiyle Ana ekran moduna geçmek Arama\'yı kullanılamaz hale getirir. Yine de geçilsin mi?</string>
   <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesi kullanarak</string>
   <string name="all_apps_setting_drawer_title">Uygulama çekmecesi ile</string>
+  <string name="all_apps_setting_min_category_limit">En az 1 kategori seçin</string>
   <string name="all_apps_setting_title">Ana ekran</string>
   <string name="all_apps_slide_up_tips">Yukarı kaydırma, Uygulama çekmecesini açmak için ayrılmıştır. Normal Ana ekran moduna geçin ve tekrar deneyin.</string>
   <string name="all_apps_suggestions">Uygulama önerileri</string>
@@ -88,6 +106,14 @@
   <string name="cant_remove_folder">Klasör kaldırılamadı</string>
   <string name="cant_remove_retained_app">Bu uygulama kaldırılamadı</string>
   <string name="cant_remove_system_app">Sistem uygulaması kaldırılamadı</string>
+  <string name="cate_order_reset">Sıfırla</string>
+  <string name="category_already_exists">Bu kategori zaten var</string>
+  <string name="category_cannot_empty">Önce kategoriyi girin</string>
+  <string name="category_choose_no_app_select_tip">Her kategori en az 1 uygulama içermelidir.</string>
+  <string name="category_drawer_name_hint">Kategori adını girin</string>
+  <string name="category_group">Uygulamaları kategorilere ayır</string>
+  <string name="category_group_summary">Uygulamaları Uygulama çekmecesinde kategorilere ayırın</string>
+  <string name="category_not_selected">Mevcut uygulamalar</string>
   <string name="change_wallpaper">Değiştir</string>
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Yeni duvar kağıdını seç</string>
@@ -115,6 +141,8 @@
   <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Sil</string>
+  <string name="delete_category_dialog_content">Silerseniz, bu kategoriyi geri yükleyemezsiniz. Yine de silinsin mi?</string>
+  <string name="delete_category_dialog_title">Bu kategori silinsin mi?</string>
   <string name="delete_screen">Ekranı Sil</string>
   <string name="delete_wallpaper_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
   <string name="deselect_all">Tüm seçimleri kaldır</string>
@@ -223,6 +251,7 @@
   <string name="lock_screen_failed_message">Kilit ekranı duvar kağıdı ayarlanamıyor</string>
   <string name="lock_screen_success_message">Kilit ekranına uygulandı</string>
   <string name="lock_screen_wallpaper">Kilit ekranı duvar kağıdı</string>
+  <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
   <string name="memory_clear_nothing_result">Önbellekte temizlenecek bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi</string>
   <string name="menu_add">Ekle</string>
@@ -297,6 +326,8 @@
   <string name="quick_app">Hızlı uygulamalar</string>
   <string name="recent_apps">Son kullanılanlar</string>
   <string name="remove_invalidate_gadget_tips">Kullandığınız widget\'lardan biri artık kullanılabilir değil. Başka bir tane ekleyebilirsin.</string>
+  <string name="reset_cate_tip_content">Devam ederseniz, varsayılan uygulama grupları geri yüklenir. Yine de devam edilsin mi?</string>
+  <string name="reset_cate_tip_title">Varsayılan grupları geri yükle</string>
   <string name="recents_config_title">Son kullanılanlar</string>
   <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_no_data">Veri yok</string>
@@ -402,7 +433,6 @@
   <string name="shake_to_align_icons_summary">Boş hücreleri simgelerle otomatik olarak doldurmak için düzenleme modunda cihazınızı sallayın</string>
   <string name="shake_to_align_icons_title">Boş hücreleri doldurmak için sallayın</string>  
   <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
-  <string name="additional_settings">Ek ayarlar</string>
   <string name="drawer_background">Arka plan</string>
   <string name="drawer_background_dark">Karanlık</string>
   <string name="drawer_background_light">Aydınlık</string>
