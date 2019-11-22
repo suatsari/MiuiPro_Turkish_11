@@ -51,7 +51,7 @@
 Önceki tüm kullanıcı verileriniz kaydedilecekt."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) şu anda yüklü olan (%3$s) yeini alacak. Mevcut tüm uygulama verileri kaydedilecek.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
-  <string name="dlg_appstore_notice">&lt;u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font>&lt;/u>; dışındaki kaynaklardan gelen uygulamaların orijinalliğini veya güvenliğini doğrulayamıyoruz.</string>
+  <string name="dlg_appstore_notice"><u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u>; dışındaki kaynaklardan gelen uygulamaların orijinalliğini veya güvenliğini doğrulayamıyoruz.</string>
   <string name="dlg_game_center_intercept_game_center_install">Mi Oyunlar üzerinden yükleyin</string>
   <string name="dlg_game_center_intercept_install">Yine de yükle</string>
   <string name="dlg_game_center_intercept_msg">Üçüncü taraf oyunların kurulması güvenlik riski oluşturabilir. Güvenli uygulama sürümlerine erişmek için Mi Oyunlar\'ı indirip yükleyin.</string>
@@ -99,7 +99,7 @@
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">%1$s telefonunuza yüklenemedi.</string>
   <string name="install_failed_system_incompatible">Bu uygulama MIUI ile uyumlu değil</string>
-  <string name="install_from_appstore_hint">Uygulamayı &lt;u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font>&lt;/u> üzerinden yüklemenizi öneririz</string>
+  <string name="install_from_appstore_hint">Uygulamayı <u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u> üzerinden yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
   <string name="intercept_install">Yükle</string>
   <string name="launch">Aç</string>

@@ -102,25 +102,25 @@
   <string name="accessibility_screen_magnification_navbar_short_summary">Yakınlaştırmak için bir düğmeye dokunun</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın altındaki Erişilebilirlik düğmesini kullanın.
 
-"<b>Yakınlaştırmak</b>", için Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.
-"<ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
-"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+"&lt;b>Yakınlaştırmak&lt;/b>", için Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.
+"&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
-"<b>Geçici olarak yakınlaştırmak için</b>", Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.
-"<ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
-"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+"&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.
+"&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
 Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_navbar_title">Düğmeyle büyütme</string>
   <string name="accessibility_screen_magnification_short_summary">Yakınlaşmak için 3 kez hafifçe dokunun</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Düğmeyle ve üç kez dokunarak büyütme</string>
-  <string name="accessibility_screen_magnification_summary">" "<b>Yakınlaştırmak için</b>", ekrana 3 kez hızlıca dokunun.
-"<ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
-"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+  <string name="accessibility_screen_magnification_summary">" "&lt;b>Yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun.
+"&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
-"<b>Geçici olarak yakınlaştırmak için</b>", ekrana 3 kez hızlıca dokunun ve üçüncü dokunuşta parmağınızı basılı tutun.
-"<ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
-"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+"&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun ve üçüncü dokunuşta parmağınızı basılı tutun.
+"&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
 Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_title">Büyütme hareketleri</string>
