@@ -54,6 +54,8 @@
   <string name="color_change_with_time_title">Rengi otomatik olarak değiştir</string>
   <string name="deep_space_planet">Dış mekan</string>
   <string name="deep_space_planet_des">Bu tema, gün boyunca etrafınızda olan ışık değişimlerini yansıtır. Gündoğumu ve günbatımı da konumunuz ile senkronize edilir.</string>
+  <string name="disable_aod_in_power_save_mode">Pil tasarrufu açıkken kapat</string>
+  <string name="disable_aod_in_power_save_mode_summary">Güç tasarrufunda öğeleri görüntülemeyin</string>
   <string name="large_time">Büyük saat</string>
   <string name="mini_time">Küçük saat</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
@@ -62,12 +64,13 @@
   <string name="paper_mode_end_time_title">Kapat</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
+  <string name="photo_editor_saving">Kaydediliyor…</string>
   <string name="scheduled_style">Zamanlanmış</string>
   <string name="search_menu_title">Ara</string>
   <string name="show_battery_status">Pil durumunu göster</string>
   <string name="show_notification">Bildirimleri göster</string>
   <string name="standard_style">Standart</string>
-  <string name="summary">Güç tüketimini azaltmak için, öğeler aşağıdaki durumlarda görüntülenmez:\n1. Cihazınızın ekranı uzun süre kapalı kaldığında.\n2. Rahatsız etme modu açık olduğunda.</string>
+  <string name="summary">Güç tüketimini azaltmak için, cihazınız uzun süre karanlıkta kaldığında öğeler görüntülenmez.</string>
   <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
   <string name="text_color">Metin rengi</string>
   <string name="align_type">Hizala</string>
