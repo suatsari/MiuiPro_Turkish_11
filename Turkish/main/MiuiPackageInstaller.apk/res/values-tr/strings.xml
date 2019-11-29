@@ -1,55 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="adb_install_no_network">Ağa bağlanın ve tekrar deneyin</string>
-  <string name="adb_install_open">İzin veriliyor…</string>
-  <string name="adb_install_open_error">İzin verilemedi, ağ bağlantınızı kontrol edin</string>
-  <string name="additional_permissions">Ek İzinler</string>
+  <string name="adb_install_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="adb_install_open">Açılıyor…</string>
+  <string name="adb_install_open_error">Açılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="additional_permissions">Ek izinler</string>
   <string name="ads">Reklamlar</string>
   <string name="ads_install_button">Yükle</string>
   <string name="ads_install_button_installed">Aç</string>
   <string name="ads_install_button_isDownloading">İndiriliyor</string>
   <string name="ads_install_button_isInstalling">Yükleniyor</string>
   <string name="ads_install_button_waiting">Bekliyor</string>
-  <string name="ads_summary">%1$s yükleyenler de beğendi</string>
-  <string name="all_permissions">Tüm İzinler</string>
+  <string name="ads_summary">%1$s yükleyen kişiler de beğendi</string>
+  <string name="all_permissions">Tüm izinler</string>
   <string name="allPerms">Tümü</string>
   <string name="anonymous_source_continue">Devam et</string>
   <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yükleyerek, telefonunuza gelebilecek herhangi bir zarardan veya kullanımından kaynaklanabilecek veri kaybından sorumlu olduğunuzu kabul edersiniz.</string>
   <string name="app_install_failed_button_text">Uygulamaları ara</string>
-  <string name="app_name">Paket Yükleyicisi</string>
+  <string name="app_name">Paket yükleyici</string>
   <string name="app_name_unknown">Bilinmiyor</string>
   <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı.</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
   <string name="app_ops_clean_master_tip">%s boş</string>
-  <string name="app_ops_install_exit">Çıkış</string>
+  <string name="app_ops_install_exit">Çık</string>
   <string name="app_permissions">Uygulama izinleri</string>
   <string name="app_permissions_breadcrumb">Uygulamalar</string>
-  <string name="app_permissions_group_summary">%2$d uygulamadan %1$d tanesine izin verildi</string>
-  <string name="app_store_install_hint">Şimdi Yükle</string>
-  <string name="app_store_installing_message">Yükleniyor...</string>
+  <string name="app_permissions_group_summary">%1$d / %2$d uygulamaya izin verildi</string>
+  <string name="app_store_install_hint">Şimdi yükle</string>
+  <string name="app_store_installing_message">Yükleniyor…</string>
   <string name="app_store_missing_message">Resmi Uygulama Mağazasını yüklememişsiniz gibi görünüyor. Şimdi yüklensin mi?</string>
   <string name="app_store_missing_title">Uygulama Mağazası yüklü değil</string>
+  <string name="application_detail_tips">Uygulama bilgisi ve izin ayarları</string>
   <string name="auto_startup_dialog_msg">Bu uygulama sizin izniniz olmadan başlayabilir.</string>
-  <string name="btn_text_full_scan">Tam Tara</string>
-  <string name="btn_text_install_new_version">San Sürüm</string>
-  <string name="btn_text_install_origin">Orjinal Sürüm</string>
+  <string name="btn_text_full_scan">Tam tarama</string>
+  <string name="btn_text_install_new_version">En son sürüm</string>
+  <string name="btn_text_install_origin">Orijinal sürüm</string>
   <string name="btn_text_install_security_version_in_appstore">Güvenli sürümle değiştir</string>
-  <string name="btn_text_scaning">Taranıyor...</string>
+  <string name="btn_text_scaning">Taranıyor…</string>
   <string name="btn_text_security_install">Güvenli sürümle değiştir</string>
-  <string name="caller_app">%1$s\'den izin isteği</string>
+  <string name="caller_app">%1$s uygulamasından izin isteği</string>
   <string name="cancel">İptal</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">Çık</string>
-  <string name="cta_dialog_msg">Güvenlik, güncellemeleri almak için internet bağlantısının yanı sıra normal çalışabilmesi için konuma erişmesi gerekir.</string>
-  <string name="cta_dialog_title">İnternet Bağlantısı</string>
-  <string name="current_permission_template">%2$s/%1$s</string>
+  <string name="cta_dialog_msg">Güvenlik, güncellemeleri alması için internet bağlantısının yanı sıra normal çalışabilmesi için konuma erişmesi gerekir.</string>
+  <string name="cta_dialog_title">İnternet bağlantısı</string>
+  <string name="current_permission_template">%1$s / %2$s</string>
   <string name="current_permissions_category">Mevcut izinler</string>
-  <string name="default_permission_description">Bilinmeyen eylem gerçekleşti</string>
+  <string name="default_permission_description">bilinmeyen bir eylem gerçekleştirir</string>
   <string name="devicePerms">Cihaz erişimi</string>
   <string name="dlg_app_replacement_statement">"Yüklediğiniz uygulama başka bir uygulamanın yerini alacak.
   
-Önceki tüm kullanıcı verileriniz kaydedilecekt."</string>
-  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) şu anda yüklü olan (%3$s) yeini alacak. Mevcut tüm uygulama verileri kaydedilecek.</string>
+Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s), şu anda yüklü olan (%3$s) sürümünün yerini alacak. Varolan tüm uygulama verileri kaydedilecek.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
   <string name="dlg_appstore_notice"><u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u>; dışındaki kaynaklardan gelen uygulamaların orijinalliğini veya güvenliğini doğrulayamıyoruz.</string>
   <string name="dlg_game_center_intercept_game_center_install">Mi Oyunlar üzerinden yükleyin</string>
@@ -61,7 +62,9 @@
   <string name="dlg_msg_unoffical">Resmi olmayan kanallardan sistem uygulamaları yüklenemiyor</string>
   <string name="dlg_msg_unoffical_ok">Tamam</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulaması. Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
+  <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulaması.
+ 
+Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
   <string name="done">Tamam</string>
   <string name="external_sources_settings">Ayarlar</string>
   <string name="external_sources_settings_negative">Kısıtla</string>
@@ -99,44 +102,46 @@
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">%1$s telefonunuza yüklenemedi.</string>
   <string name="install_failed_system_incompatible">Bu uygulama MIUI ile uyumlu değil</string>
+  <string name="install_finished_notification_summary">Şimdi temizlemek için tıklayın</string>
+  <string name="install_finished_notification_title">%1$s başarıyla yüklendi, %2$s şimdi temizleyin</string>
   <string name="install_from_appstore_hint">Uygulamayı <u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u> üzerinden yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
   <string name="intercept_install">Yükle</string>
   <string name="launch">Aç</string>
   <string name="lift_ban">İzin ver</string>
-  <string name="lift_ban_once">Birkez izin ver</string>
+  <string name="lift_ban_once">Bir kez izin ver</string>
   <string name="loading">Yükleniyor…</string>
-  <string name="location_settings">Konum Ayarları</string>
-  <string name="location_warning">%1$s bu cihaz için konum hizmetleri sağlayıcısıdır. Yer erişim konum ayarlarından değiştirilebilir.</string>
+  <string name="location_settings">Konum ayarları</string>
+  <string name="location_warning">%1$s, bu cihaz için bir konum hizmetleri sağlayıcısıdır. Konum erişimi konum ayarlarından değiştirilebilir.</string>
   <string name="low_risk_perms">Düşük riskli izinler</string>
-  <string name="manage_applications">Uygulamaları Yönet</string>
+  <string name="manage_applications">Uygulamaları yönet</string>
   <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
-  <string name="manage_users">Kullanıcıları Yönet</string>
+  <string name="manage_users">Kullanıcıları yönet</string>
   <string name="menu_hide_system">Sistemi gizle</string>
   <string name="menu_show_system">Sistemi göster</string>
   <string name="message_appstore_verify_has_new_version">Bu uygulamanın daha yeni bir sürümü Uygulama Mağazasında mevcuttur. Yüklemek istiyor musunuz?</string>
-  <string name="message_appstore_verify_inconsistent">Bu uygulamanın imzası Uygulama Mağazası\'ndaki imzadan farklıdır; uygulamayı oradan yüklemek daha güvenli olacaktır.</string>
+  <string name="message_appstore_verify_inconsistent">Bu uygulamanın imzası Uygulama Mağazası\'ndaki imzadan farklı, uygulamayı oradan yüklemek daha güvenli olacaktır.</string>
   <string name="message_appstore_verify_ok">Uygulama Mağazası\'ndaki bu uygulamanın sürümü güvenlik testlerimizi geçti, uygulamayı oradan yüklemenizi öneriyoruz.</string>
-  <string name="message_full_scanning">Tamamen taranıyor…</string>
-  <string name="message_install_in_market">Uygulama Mağazası\'dan uygulamayı yüklemenizi öneririz</string>
-  <string name="message_quick_scanning">Hızlı taranıyor…</string>
-  <string name="message_staging">Uygulama hazırlanıyor...</string>
-  <string name="mimarket_install">Mi Uygulama Mağazsı üzerinden yükleyin</string>
+  <string name="message_full_scanning">Tam tarama…</string>
+  <string name="message_install_in_market">Uygulamayı, Uygulama Mağazası\'dan yüklemenizi öneririz</string>
+  <string name="message_quick_scanning">Hızlı tarama…</string>
+  <string name="message_staging">Uygulama hazırlanıyor…</string>
+  <string name="mimarket_install">Mi Uygulama Mağazası üzerinden yükleyin</string>
   <string name="mimarket_install_more">Daha fazla uygulama yüklemek için uygulama mağazasına gidin</string>
   <string name="mimarket_install_tips">Daha fazla özellik için Mi Uygulama Mağazası\'nı indirin ve yükleyin</string>
   <string name="mimarket_intercept_warning_msg">Bu uygulama Xiaomi tarafından virüslere karşı kontrol edilmedi. Güvenlik risklerini önlemek için bu uygulamayı Mi Uygulama Mağazası üzerinden yükleyin.</string>
-  <string name="miui_app_danger">Bu uygulama güvenli değil, silin.</string>
-  <string name="miui_app_detail">Detaylar</string>
+  <string name="miui_app_danger">Bu uygulama güvenli değil, yüklemeyin.</string>
+  <string name="miui_app_detail">Ayrıntılar</string>
   <string name="miui_app_permission_detail">Gerekli izinler</string>
-  <string name="miui_app_virus">Bu uygulama virüslü, silin.</string>
+  <string name="miui_app_virus">Bu uygulama bir virüstür, yüklemeyin.</string>
   <string name="miui_clean">Temizle</string>
   <string name="miui_clear_apk_desc">Yükleme paketi ve artık veriler silindi (%s)</string>
   <string name="miui_clear_apks">Yükleme paketini ve artık verileri sil (%s)</string>
-  <string name="miui_compatibility_desc">Bu uygulama cihazınız için optimize edilmemiş. Yüklerseniz, düzgün çalışmayabilir. Geliştiricinin mevcut uyumluluk sorunlarını çözmesini ve bir süre sonra uygulamanın yeni bir sürümünü yüklemesini bekleyin.</string>
+  <string name="miui_compatibility_desc">Bu uygulama cihazınız için optimize edilmedi. Yüklerseniz, düzgün çalışmayabilir. Geliştiricinin mevcut uyumluluk sorunlarını çözmesini bekleyin ve bir süre sonra uygulamanın yeni bir sürümünü yükleyin.</string>
   <string name="miui_delete">Sil</string>
   <string name="miui_failed_already_exists">Bu uygulama zaten yüklü</string>
-  <string name="miui_failed_conflicting_provider">Çelişkili servis sağlayıcıları</string>
-  <string name="miui_failed_duplicate_permission">Çelişkili izinler</string>
+  <string name="miui_failed_conflicting_provider">Çakışan servis sağlayıcıları</string>
+  <string name="miui_failed_duplicate_permission">Çakışan izinler</string>
   <string name="miui_failed_insufficient_storage">Yetersiz depolama alanı</string>
   <string name="miui_failed_invalid_apk">Kurulum paketi hatası</string>
   <string name="miui_failed_invalid_uri">Geçersiz yükleme yolu</string>
@@ -163,12 +168,13 @@
   <string name="miui_install_fail">Yüklenemedi (%d)</string>
   <string name="miui_install_fail_notify">Yüklenemedi</string>
   <string name="miui_install_fail_reason">Hata nedeni</string>
-  <string name="miui_install_source">\"%s\" ile</string>
+  <string name="miui_install_source">\"%s\" öğesinden</string>
   <string name="miui_install_source_unkown">Bilinmeyen</string>
   <string name="miui_install_success">Başarıyla yüklendi</string>
   <string name="miui_install_version">Sürüm: %1$s | Boyut: %2$s</string>
-  <string name="miui_installing">Yükleniyor...</string>
-  <string name="miui_installing2">Yükleniyor...</string>
+  <string name="miui_install_version_3">Sürüm: %1$s -&gt; %2$s | Boyut: %3$s</string>
+  <string name="miui_installing">Yükleniyor…</string>
+  <string name="miui_installing2">Yükleniyor…</string>
   <string name="miui_message_staging_0">Uygulama hazırlanıyor   </string>
   <string name="miui_message_staging_1">Uygulama hazırlanıyor.  </string>
   <string name="miui_message_staging_2">Uygulama hazırlanıyor.. </string>
@@ -176,7 +182,7 @@
   <string name="miui_no_perms">İzin gerekmiyor</string>
   <string name="miui_not_uninstall_system_app">Sistem uygulamaları kaldırılamıyor</string>
   <string name="miui_other_relative">Diğer</string>
-  <string name="miui_permission_manage_title">%s detayları</string>
+  <string name="miui_permission_manage_title">%s ayrıntıları</string>
   <string name="miui_please_clear">Virüsleri sil</string>
   <string name="miui_privacy_relative">Gizlilik</string>
   <string name="miui_recommend_clean">Uygulama verilerini de temizle</string>
@@ -186,7 +192,7 @@
   <string name="miui_solution_msg">Çözüm</string>
   <string name="miui_solution_msg_2">Çözüm</string>
   <string name="miui_uninstall_success">Başarıyla kaldırıldı</string>
-  <string name="miui_uninstalling">Kaldırılıyor...</string>
+  <string name="miui_uninstalling">Kaldırılıyor…</string>
   <string name="miui_virus_deleted">Virüsler başarıyla silindi</string>
   <string name="miui_virus_install"><u>Yine de yükle</u></string>
   <string name="miui_virus_scanning">Virüs taraması…</string>
@@ -194,7 +200,7 @@
   <string name="miui_virus_scanning_1">Virüs taraması.</string>
   <string name="miui_virus_scanning_2">Virüs taraması..</string>
   <string name="miui_virus_scanning_3">Virüs taraması...</string>
-  <string name="miui_virus_title">Yüksek Risk</string>
+  <string name="miui_virus_title">Yüksek risk</string>
   <string name="mobil_net_work_warning_cancel">İptal</string>
   <string name="mobil_net_work_warning_msg">Şimdi mobil veri kullanıyorsunuz. Bu uygulamayı yüklemek için %1$s mobil veri gerekir. Yine de yüklensin mi?</string>
   <string name="mobil_net_work_warning_ok">Yine de yükle</string>
@@ -240,7 +246,7 @@
   <string name="permission_send_sms_descx">Uygulama SMS ve MMS gönderebilir</string>
   <string name="permission_summary_enforced_by_policy">Politika gereği</string>
   <string name="permission_title">%1$s izinleri</string>
-  <string name="permission_warning_template">&lt;b>%1$s&lt;/b> için %2$s izni verilsin mi?</string>
+  <string name="permission_warning_template"><b>%1$s</b> için %2$s izni verilsin mi?</string>
   <string name="permlab_togglePermissions">İzin geçişi</string>
   <string name="pref_ads">Öneriler</string>
   <string name="pref_key_about_privacy_title">Gizlilik Politikası</string>
@@ -250,7 +256,8 @@
   <string name="pref_key_app_store_title">Güvenli sürümleri öner</string>
   <string name="privacy_relative">Gizlilik</string>
   <string name="privacyPerms">Gizlilik</string>
-  <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
+  <string name="reboot_time">Yeniden başlatmaya hazırlanıyor… (%1$s)</string>
+  <string name="replace_app_des_text">Bu uygulamayı güncellemek istiyor musunuz?</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
   <string name="risk_warning_title">Risk tespit edildi</string>
@@ -282,10 +289,10 @@
   <string name="uninstall_blocked_device_owner">Bu uygulama, cihaz yönetici tarafından gerekli ve kaldırılamaz.</string>
   <string name="uninstall_blocked_profile_owner">Bu uygulama, çalışma profili için gerekli ve kaldırılamaz.</string>
   <string name="uninstall_confirm_question">Bu uygulama kaldırılsın mı?</string>
-  <string name="uninstall_done">Kaldırma tamamladı.</string>
-  <string name="uninstall_failed">Kaldırma başarıyla kaldırıldı.</string>
-  <string name="uninstall_failed_device_policy_manager">Bu paket etkin bir cihaz yöneticisi olduğu için kaldıramazsınız.</string>
-  <string name="uninstall_failed_device_policy_manager_of_user">Bu paket, kullanıcı %1$s için etkin bir cihaz yöneticisi olduğu için kaldıramazsınız.</string>
+  <string name="uninstall_done">Başarıyla kaldırıldı</string>
+  <string name="uninstall_failed">Kaldırılamadı</string>
+  <string name="uninstall_failed_device_policy_manager">Bu paket etkin bir cihaz yöneticisi olduğundan kaldırılamıyor.</string>
+  <string name="uninstall_failed_device_policy_manager_of_user">Bu paket %1$s kullanıcısı için etkin bir cihaz yöneticisi olduğundan kaldırılamıyor.</string>
   <string name="uninstall_failed_msg">%1$s kaldırılamadı.</string>
   <string name="uninstall_failed_retained_app_msg">Bu uygulama değiştirildi ve mevcut haliyle kaldırılamaz.</string>
   <string name="uninstall_update_text">Fabrika sürümü ile bu uygulamayı değiştirmek istiyor musunuz?</string>
@@ -295,16 +302,12 @@
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan alınan uygulamaların kurulmasına izin vermez.</string>
   <string name="unknown_apps_dlg_text">Güvenlik için, telefonunuz bilinmeyen kaynaklardan alınan uygulamaların yüklenmesini engellemeye ayarlıdır.</string>
-  <string name="unknown_installer">Tanımlanamayan Bilgisayar Aracı</string>
+  <string name="unknown_installer">Tanımlanamayan PC araçları</string>
   <string name="unlike">Hayır teşekkürler</string>
-  <string name="untrusted_external_source_title">\"%1$s\" için uygulamaları yüklemesine izin verilsin mi?</string>
-  <string name="untrusted_external_source_warning_summary">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzda oluşabilecek hasarlardan veya bu uygulamaların neden olabileceği kişisel veri kaybından dolayı sorumluluğu kabul etmiş olursunuz.
-
-"<font size="15">Ayarlar\'da Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
-    <string name="untrusted_external_source_warning_summary_2">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzda oluşabilecek hasarlardan veya bu uygulamaların neden olabileceği kişisel veri kaybından dolayı sorumluluğu kabul etmiş olursunuz.
-
-"<font size="15">Ayarlar\'da Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
-  <string name="untrusted_external_source_warning">Güvenliğiniz için, telefonunuzun bu kaynaktan bilinmeyen uygulamalar yüklemesine izin verilmez.</string>
+  <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
+  <string name="untrusted_external_source_title">\"%1$s\" için uygulama yüklemesine izin verilsin mi?</string>
+  <string name="untrusted_external_source_warning">Güvenliğiniz için telefonunuzun bu kaynaktan bilinmeyen uygulamaları yüklemesine izin verilmiyor.</string>
+  <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yüklenmesine izin vererek, bu uygulamaların kullanılmasından kaynaklanan herhangi bir hasar ya da veri kaybı için sorumluluğu kabul etmiş olursunuz.</string>
   <string name="user_is_not_allowed_dlg_text">Geçerli kullanıcının bu kaldırma işlemini gerçekleştirmesine izin verilmiyor.</string>
   <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
   <string name="virus_scan_caller_unknown">Bilinmiyor</string>
@@ -313,8 +316,8 @@
   <string name="virus_scan_is_risk">Bu uygulama cihazınızın güvenliği açısından bir risk oluşturuyor.</string>
   <string name="virus_scan_is_virus">Bu uygulama bir virüs içeriyor.</string>
   <string name="virus_title_subtext">"Bu uygulama virüs içerebilir: "</string>
-  <string name="waiting_tip">Bu biraz zaman alabilir, ancak buna değer</string>
-  <string name="wear_app_channel">Android Wear uygulamalarını yükleme/kaldırma</string>
-  <string name="wear_not_allowed_dlg_text">Wear\'da desteklenmeyen kurulum/kaldırma işlemleri.</string>
+  <string name="waiting_tip">Bu biraz zaman alabilir, ama buna değer</string>
+  <string name="wear_app_channel">Android Wear\'da uygulamaları yükleme/kaldırma</string>
+  <string name="wear_not_allowed_dlg_text">Wear\'da yükleme/kaldırma işlemleri desteklenmiyor.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
 </resources>
