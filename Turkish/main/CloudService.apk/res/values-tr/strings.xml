@@ -4,7 +4,7 @@
   <string name="account_related">Cihazınız varolan Mi Hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
   <string name="activate_find_device_success">Cihazı bul etkinleştirildi.</string>
   <string name="activate_finddevice">Cihazı etkinleştirmek için ağa bağlanın</string>
-  <string name="activating">Etkinleştiriliyor...</string>
+  <string name="activating">Etkinleştiriliyor…</string>
   <string name="add_short_cut">Ekle</string>
   <string name="added_successfully">Başarıyla eklendi</string>
   <string name="antispam_sync">Rahatsız etme ayarları</string>
@@ -68,7 +68,7 @@
   <string name="last_sync_time_just_now">Sadece şimdi</string>
   <string name="last_sync_time_yesterday">Dün</string>
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgileri şimdi görüntülemek için, %s adresine gidin.</string>
-  <string name="loading">Biraz bekleyin...</string>
+  <string name="loading">Sadece bir saniye…</string>
   <string name="master_alert_notif_content">Önemli bir şeyi kaybetmemek için öğeleri düzenli olarak yedekleyin.</string>
   <string name="master_alert_notif_title">Xiaomi Bulut\'u açın</string>
   <string name="member_entrance_normal_title">Xiaomi Bulut planını değiştirin</string>
@@ -250,7 +250,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_privacy_cloud_off">Eşitleme kapalı</string>
   <string name="micloud_privacy_cloud_sync">Xiaomi Bulut hizmetlerini aç</string>
   <string name="micloud_privacy_explanation">Xiaomi Bulut hizmetlerini açmak için yetki verin</string>
-  <string name="micloud_privacy_licence_agreed">Xiaomi Bulut &lt;a href=app://com.miui.cloudservice.gdpr.license><u>Gizlilik Politikasını</u>&lt;/a> kabul edin.</string>
+  <string name="micloud_privacy_licence_agreed">Xiaomi Bulut &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Gizlilik Politikasını&lt;/u>&lt;/a> kabul edin.</string>
   <string name="micloud_privacy_licence_privacy_policy">Gizlilik Politikası</string>
   <string name="micloud_privacy_progress_content">Yetki veriliyor…</string>
   <string name="micloud_privacy_warning_button">Geri</string>
@@ -328,7 +328,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="priv_dialog_finddevice_all_purpose_pad">Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz.</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz.</string>
   <string name="priv_dialog_sync_all_purpose">Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişini, rehberi, notları, Tarayıcı ayarlarını, şarkıları, fotoğrafları ve videoları, WLAN ayarlarını, kayıtları, Ana ekran düzenini, uygulamaları, takvim etkinliklerini, Engelli listesi öğelerini ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut\'u kullanabilirsiniz.</string>
-  <string name="priv_doc_cloudservice">Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişini, rehberi, notları, Tarayıcı ayarlarını, şarkıları, fotoğrafları ve videoları, WLAN ayarlarını, kayıtları, Ana ekran düzenini, uygulamaları, takvim etkinliklerini, Engelli listesi öğelerini ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut\'u kullanabilirsiniz. Eşitlediğiniz öğelere herhangi bir tarayıcı ile bu adresten erişebilirsiniz: &lt;font color="#0097FF">&lt;b>i.mi.com&lt;/b>&lt;/font>".
+  <string name="priv_doc_cloudservice">"Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişini, rehberi, notları, Tarayıcı ayarlarını, şarkıları, fotoğrafları ve videoları, WLAN ayarlarını, kayıtları, Ana ekran düzenini, uygulamaları, takvim etkinliklerini, Engelli listesi öğelerini ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut\'u kullanabilirsiniz. Eşitlediğiniz öğelere herhangi bir tarayıcı ile bu adresten erişebilirsiniz: i.mi.com.
 
 Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için operatörünüz sizden ücret isteyebilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.
 
@@ -347,9 +347,9 @@ Kişileri eşitlemek için
 - Depolama:
 Cihazınıza öğe kaydetmek için (ör. resimler, videolar, şarkılar)
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
-Xiaomi Bulut\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"><u> Kullanıcı Sözleşmemizi </u>&lt;/a>ve&lt;a href="app://com.miui.cloudservice.gdpr.license"><u> Gizlilik Politikamızı </u>&lt;/a>"okuyup kabul edin.
+Xiaomi Bulut\'u kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyup kabul edin.
 "</string>
-  <string name="priv_doc_finddevice_pad">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için "&lt;font color="#0097FF">&lt;b>i.mi.com&lt;/b>&lt;/font>" adresine gidebilirsiniz.
+  <string name="priv_doc_finddevice_pad">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için i.mi.com adresine gidebilirsiniz.
 
 Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
 Cihazı Bul\'un normal çalışabilmesi için, internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:
@@ -358,9 +358,9 @@ Cihazınızı tanımlamak için
 - Konum:
 Cihazınızı bulma ve kayıp moduna geçiş için
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
-Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"><u> Kullanıcı Sözleşmemizi </u>&lt;/a>ve&lt;a href="app://com.miui.cloudservice.gdpr.license"><u> Gizlilik Politikamızı </u>&lt;/a>"okuyup kabul edin.
+Cihazı Bul\'u kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyup kabul edin.
 "</string>
-  <string name="priv_doc_finddevice_phone">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için "&lt;font color="#0097FF">&lt;b>i.mi.com&lt;/b>&lt;/font>" adresine gidebilirsiniz.
+  <string name="priv_doc_finddevice_phone">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için i.mi.com adresine gidebilirsiniz.
 
 Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
 Cihazı Bul\'un normal çalışabilmesi için, internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:
@@ -369,9 +369,9 @@ Cihazınızı tanımlamak için
 - Konum:
 Cihazınızı bulma ve kayıp moduna geçiş için
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
-Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"><u> Kullanıcı Sözleşmemizi </u>&lt;/a>ve&lt;a href="app://com.miui.cloudservice.gdpr.license"><u> Gizlilik Politikamızı </u>&lt;/a>"okuyup kabul edin.
+Cihazı Bul\'u kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyup kabul edin.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için "&lt;font color="#0097FF">&lt;b>i.mi.com&lt;/b>&lt;/font>" adresine gidebilirsiniz.
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için i.mi.com adresine gidebilirsiniz.
 
 Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için operatörünüz sizden ücret isteyebilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.
 
@@ -383,9 +383,9 @@ Cihazınızı tanımlamak için
 - Konum:
 Cihazınızı bulma ve kayıp moduna geçiş için
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
-Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"><u> Kullanıcı Sözleşmemizi </u>&lt;/a>ve&lt;a href="app://com.miui.cloudservice.gdpr.license"><u> Gizlilik Politikamızı </u>&lt;/a>"okuyup kabul edin.
+Cihazı Bul\'u kullanmadan önce Gizlilik Politikamızı okuyup kabul edin.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için "&lt;font color="#0097FF">&lt;b>i.mi.com&lt;/b>&lt;/font>" adresine gidebilirsiniz.
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Cihazı Bul\'a hoş geldiniz! Cihazınız kaybolursa verileri bulmak, kilitlemek veya silmek için bu hizmeti kullanabilirsiniz. Yerini belirlemek, kilitlemek veya sıfırlamak için i.mi.com adresine gidebilirsiniz.
 
 Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için operatörünüz sizden ücret isteyebilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.
 
@@ -397,7 +397,7 @@ Cihazınızı tanımlamak için
 - Konum:
 Cihazınızı bulma ve kayıp moduna geçiş için
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
-Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"><u> Kullanıcı Sözleşmemizi </u>&lt;/a>ve&lt;a href="app://com.miui.cloudservice.gdpr.license"><u> Gizlilik Politikamızı </u>&lt;/a>"okuyup kabul edin.
+Cihazı Bul\'u kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyup kabul edin.
 "</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="reading_status">Durum yükleniyor…</string>
@@ -419,7 +419,7 @@ Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_ag
   <string name="short_cut_desc">Xiaomi Bulut simgesi ana ekrana eklensin mi?</string>
   <string name="sina_share_fail">Gönderim başarısız</string>
   <string name="sina_share_fail_content_repeat">Paylaşılamadı, içerik zaten var…</string>
-  <string name="sina_share_pendding">Gönderiliyor...</string>
+  <string name="sina_share_pendding">Gönderiliyor…</string>
   <string name="sina_share_success">Gönder</string>
   <string name="sina_token_expired_warning">Weibo hesabının süresi doldu, hesabı tekrar ekle.</string>
   <string name="sina_token_invalid_warning">Weibo hesabı geçersiz, hesabı tekrar ekleyin.</string>
