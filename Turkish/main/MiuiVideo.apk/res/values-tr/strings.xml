@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Sayfanın Üstü</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
-  <string name="abc_activity_chooser_view_see_all">Hepsini gör</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Uygulama seçin</string>
   <string name="abc_capital_off">KAPALI</string>
   <string name="abc_capital_on">AÇIK</string>
@@ -93,6 +93,7 @@
   <string name="channel_guide_hot_long_video">Daha popüler videoları görüntüle</string>
   <string name="channel_guide_hot_short_video">Popüler videolar buraya taşındı!</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="check_all_follow">Tümünü görüntüle</string>
   <string name="check_nothing">Henüz herhangi bir öğe seçmedin</string>
   <string name="check_plugin_loading">HD video eklentisi yükleniyor…</string>
   <string name="check_plugin_message">HD video eklentisini kuruluyor…</string>
@@ -227,6 +228,7 @@
   <string name="full_screen_get_money_hint">"Alınan ödül: "</string>
   <string name="full_screen_get_money_progress">İlerleme</string>
   <string name="full_screen_get_progress_watch_details">Ayrıntılar</string>
+  <string name="gallery_fold_tags">İşaretleri gizle</string>
   <string name="gallery_folder_alias_camera">Kamera</string>
   <string name="gallery_folder_alias_download">İndirilenler</string>
   <string name="gallery_folder_alias_mivideo">Mi Video</string>
@@ -241,6 +243,7 @@
   <string name="gallery_video_adjust_hint">Yalnızca 960fps video desteklenir</string>
   <string name="gallery_video_adjust_text">Ayarla</string>
   <string name="gallery_video_default_music_text">Otomatik</string>
+  <string name="gallery_video_edit_save_video">Alt başlık videosu oluşturuluyor…</string>
   <string name="gallery_video_item3_default_text">Duygular</string>
   <string name="gallery_video_item4_default_text">Gündoğumu</string>
   <string name="gallery_video_item5_default_text">Hatıralar</string>
@@ -252,6 +255,7 @@
   <string name="gallery_video_operate_text">Yavaş hareket ayarları</string>
   <string name="gallery_video_save_video">Video oluşturuluyor…</string>
   <string name="gallery_video_slow_edit">Ağır çekim</string>
+  <string name="gallery_view_tags">İşaretleri göster</string>
   <string name="get_product_failed_please_retry">Sipariş bilgisi alınamadı, tekrar deneyin.</string>
   <string name="geting_product_wait">Sipariş bilgisi alınıyor…</string>
   <string name="go_to_live_core_plugin">Başlatılıyor</string>
@@ -602,13 +606,22 @@
   <string name="player_plugin_des">Yüklü eklentiler</string>
   <string name="player_plugin_title">Eklentiler</string>
   <string name="player_setting_audio_enhance">Sesi geliştir</string>
+  <string name="player_vip_buy_btn_text">Abone ol</string>
+  <string name="player_vip_buy_subtitle">Premium özelliklere erişin</string>
+  <string name="player_vip_buy_title">Mi Video aboneliği</string>
   <string name="playing">oynuyor</string>
   <string name="plugin_install_failure">Eklenti yüklenemedi</string>
   <string name="plus_add_shortcut">Ana ekran kısayolu oluştur</string>
+  <string name="plus_bottom_bar_delete">Sil</string>
+  <string name="plus_bottom_bar_hide">Gizle</string>
+  <string name="plus_bottom_bar_rename">Yeniden adlandır</string>
+  <string name="plus_bottom_bar_share">Paylaş</string>
+  <string name="plus_bottom_bar_unhide">Göster</string>
   <string name="plus_change_poster">Albüm kapağını değiştir</string>
   <string name="plus_deleting_wait">Siliniyor</string>
   <string name="plus_dfolder_file_echange">Dosyaları yönet</string>
   <string name="plus_fallback">Geri bildirim</string>
+  <string name="plus_file_size">"Boyut: "</string>
   <string name="plus_gallery_allvideos">Tüm videolar</string>
   <string name="plus_gallery_folder_switch_guid">Liste görünümüne geçmek için dokunun</string>
   <string name="plus_gallery_folders_showall">Tümünü görüntüle</string>
@@ -618,7 +631,7 @@
   <string name="plus_gallery_mediatype_fangtu">Kare görüntüleri</string>
   <string name="plus_gallery_mediatype_fastslowvideo">Hızlandırılmış ve yavaş hareket</string>
   <string name="plus_gallery_mediatype_gif">GIF\'ler</string>
-  <string name="plus_gallery_mediatype_hidded">Gizli öğeler</string>
+  <string name="plus_gallery_mediatype_hidded">Gizli</string>
   <string name="plus_gallery_mediatype_longvideo">Uzun videolar</string>
   <string name="plus_gallery_mediatype_quanjing">Panoramalar</string>
   <string name="plus_gallery_nocontents">Henüz burada bir şey yok.</string>
@@ -810,7 +823,9 @@
   <string name="storage_used">%1$s kullanılan</string>
   <string name="subscribe">Abone ol</string>
   <string name="subscribe_failed">Abone olunamadı</string>
+  <string name="subscribe_fans_tag">Fanlar</string>
   <string name="subscribe_link">Tüm abonelikleri görüntüle</string>
+  <string name="subscribe_video_tag">Video</string>
   <string name="subscribed">Abone</string>
   <string name="subtitle_add_subtitle_failed">Altyazı eklenemedi. Dosyanın bozuk olmadığından emin olun.</string>
   <string name="subtitle_changed">Yeni altyazı</string>
@@ -856,10 +871,10 @@
   <string name="t_bind_success">Bilgi başarıyla eklendi</string>
   <string name="t_check_delete_file">Öğeleri silmek için seçin</string>
   <string name="t_check_delete_history">Temizleme için kayıtları seçin</string>
-  <string name="t_check_hide_file">Gizlenecek videoyu seçin</string>
+  <string name="t_check_hide_file">Önce gizlenecek öğeleri seçin</string>
   <string name="t_check_send_file">Göndermek istediğiniz öğeyi seçin</string>
   <string name="t_check_send_file_only_one">Bir seferde yalnızca bir öğe gönderebilirsiniz. Tekrar seçin.</string>
-  <string name="t_check_unhide_file">Gösterilecek videoları seçin</string>
+  <string name="t_check_unhide_file">Önce gösterilecek öğeleri seçin</string>
   <string name="t_comment_success">Başarıyla gönderildi</string>
   <string name="t_deleting">Siliniyor…</string>
   <string name="t_downloading_new_version">Güncellemeler indiriliyor…</string>
@@ -989,8 +1004,8 @@
   <string name="v_confirm_cancel_edit_subtitle_title">Editörden çıkılıyor</string>
   <string name="v_confirm_delete_history">Geçmiş kayıtlarını temizle?</string>
   <string name="v_confirm_delete_videos">Öğeler silinsin mi?</string>
-  <string name="v_confirm_hide_videos">Videoları gizle?</string>
-  <string name="v_confirm_unhide_videos">Videolar gösterilsin mi?</string>
+  <string name="v_confirm_hide_videos">Seçili öğeler gizlensin mi?</string>
+  <string name="v_confirm_unhide_videos">Seçili öğeler gösterilsin mi?</string>
   <string name="v_continue_offline">İndir</string>
   <string name="v_data_empty">Veri yok</string>
   <string name="v_debug_close">Hata Ayıklama kapat</string>
@@ -1001,6 +1016,12 @@
   <string name="v_delete_action_text">Sil (%d)</string>
   <string name="v_detail_network_failed">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
   <string name="v_developer_options">Geliştirici Seçenekleri</string>
+  <string name="v_dialog_hint_contain_invalid_char">Dosya adı geçersiz karakterler içeriyor</string>
+  <string name="v_dialog_hint_duplicate_name">Bu dosya zaten var</string>
+  <string name="v_dialog_hint_not_null">Dosya adı boş olamaz</string>
+  <string name="v_dialog_hint_start_with_dot">Dosya adı \".\" ile başlayamaz</string>
+  <string name="v_dialog_hint_too_long">Dosya adı çok uzun</string>
+  <string name="v_dialog_rename_title">Yeniden adlandır</string>
   <string name="v_download_need_vip_">Bu videoyu ücretsiz olarak indirmek için Mi Video aboneliğini alın.</string>
   <string name="v_enter_detail">Ayrıntılar</string>
   <string name="v_episode">Bölüm</string>
@@ -1032,6 +1053,7 @@
   <string name="v_home_favorites">Seçme</string>
   <string name="v_home_localt">Yerel</string>
   <string name="v_home_recent">En son</string>
+  <string name="v_input_hint">Dosya adını girin</string>
   <string name="v_input_hope">İsteğe bağlı</string>
   <string name="v_input_need">Zorunlu</string>
   <string name="v_input_password">Parolayı girin</string>
@@ -1046,7 +1068,7 @@
   <string name="v_local_video">Yerel videolar</string>
   <string name="v_login">Giriş</string>
   <string name="v_menu_delete">Sil</string>
-  <string name="v_menu_hide">Gizle</string>
+  <string name="v_menu_hide">Gizli öğeler</string>
   <string name="v_menu_nolike">İlginç değil</string>
   <string name="v_menu_send">Gönder</string>
   <string name="v_menu_unhide">Göster</string>
@@ -1092,7 +1114,7 @@
   <string name="v_send_title">Gönder</string>
   <string name="v_server_formal">Reakil sunucu</string>
   <string name="v_server_test">Test sunucusu</string>
-  <string name="v_set_password">Gizli videoları izleyebilmek için parola ayarlama</string>
+  <string name="v_set_password">Gizli öğeler için şifre ayarla</string>
   <string name="v_setting">Ayarlar</string>
   <string name="v_share_device">Paylaşılan cihazlar</string>
   <string name="v_skip_update">Görmezden gel</string>
