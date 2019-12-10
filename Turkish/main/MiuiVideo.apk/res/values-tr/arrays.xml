@@ -2,8 +2,10 @@
 <resources>
   <string-array name="feedback_tag_list">
     <item>Hata,1</item>
+    <item>Oynatma,4</item>
+    <item>Telif hakkı sorunları,3</item>
+    <item>Üyelik,5</item>
     <item>Öneri,2</item>
-	<item>Telif hakkı sorunları,3</item>
     <item>Diğer sorunlar,0</item>
   </string-array>
   <string-array name="passport_alphabet_table">
