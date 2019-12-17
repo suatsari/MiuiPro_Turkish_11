@@ -282,7 +282,7 @@
   <string name="grant_dialog_button_deny">Reddet</string>
   <string name="location_settings">Konum Ayarları</string>
   <string name="location_warning">%1$s bu cihaz için konum hizmetleri sağlayıcısıdır. Konum erişimini Konum Ayarları\'ndan değiştirilebilirsiniz.</string>
-  <string name="never_ask_again">Tekrar Sorma</string>
+  <string name="never_ask_again">Kısıtladıktan sonra tekrar sorma</string>
   <string name="ok">Tamam</string>
   <string name="permission_group_title_charges_related">Değişiklik</string>
   <string name="permission_group_title_media_related">Multimedya</string>
