@@ -2093,6 +2093,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="google_backup_section_title">Google Yedekleme &amp; Sıfırlama</string>
   <string name="google_title">Google</string>
   <string name="got_it">Anladım</string>
+  <string name="gps_description">Birden fazla uydu navigasyon sistemi (GPS, BeiDou, GLONASS, Galileo) desteklenir</string>
   <string name="gsm_to_wifi_connect_type_title">GSM\'den WLAN\'a</string>
   <string name="gxzw_add_fingerprint_continue">Devam et</string>
   <string name="gxzw_add_fingerprint_edge_message">Parmağınızın kenarlarını kaydetmek için parmağınızı hareket ettirin</string>
