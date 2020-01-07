@@ -4172,7 +4172,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="security_settings_desc">Bu uygulama telefonunuzda aşağıdakilere erişebilir:</string>
   <string name="security_settings_desc_multi">Bu uygulama cihazınızda aşağıdakilere erişebilir. Performansı artırmak ve bellek kullanımını azaltmak için, bu izinlerin bazıları %1$s kullanabilir çünkü %2$s ile aynı süreçte çalışır:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
-  <string name="security_settings_fingerprint_enroll_dialog_name_label">İsim</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Telefonunuzun kilidini açmanın yanı sıra, satın alma işlemlerini ve uygulama erişimini onaylamak içinde parmak izinizi kullanabilirsiniz.<annotation id="url"> Daha fazla bilgi edin</annotation>" "</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun."<annotation id="admin_details"> Daha fazla detay</annotation>"
