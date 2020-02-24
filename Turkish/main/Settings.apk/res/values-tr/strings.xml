@@ -1313,8 +1313,16 @@ Sorun şunlar olabilir:
   <string name="daltonizer_mode_monochromacy">Tam Renk Körlüğü</string>
   <string name="daltonizer_mode_protanomaly">Renk Körlüğü (kırmızı-yeşil)</string>
   <string name="daltonizer_mode_tritanomaly">Renk Körlüğü (mavi-sarı)</string>
-  <string name="daltonizer_type">Düzeltme Modu</string>
+  <string name="daltonizer_type">Düzeltme modu</string>
   <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kıl</string>
+  <string name="dark_ui_mode">Koyu tema</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_off">Pil Tasarrufu nedeniyle geçici olarak açıldı</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_on">Açık / Pil Tasarrufu nedeniyle geçici olarak devre dışı bırakıldı</string>
+  <string name="dark_ui_mode_title">Temayı ayarla</string>
+  <string name="dark_ui_settings_dark_summary">Desteklenen uygulamalar da karanlık temaya geçecektir</string>
+  <string name="dark_ui_settings_dialog_acknowledge">Anladım</string>
+  <string name="dark_ui_settings_light_summary">Bu ayarlar uygulamalar için de geçerlidir</string>
+  <string name="dark_wallpaper_mode">Duvar kağıdını Koyu moda ayarla</string>
   <string name="dashboard_title">Ayarlar</string>
   <string name="data_limit">Veri sınırı</string>
   <string name="data_saver_off">Kapalı</string>
@@ -4934,6 +4942,8 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depola
   <string name="tether_settings_title_usb_bluetooth">İnternet paylaşımı</string>
   <string name="tether_settings_title_wifi">Mobil internet paylaşımı</string>
   <string name="tether_share_qrcode_title">QR kodunu paylaş</string>
+  <string name="tether_use_wifi6_summary">Bazı aygıtlar 802.11ax standardıyla uyumsuz olabilir. Sorun yaşarsanız bu özelliği kapatın.</string>
+  <string name="tether_use_wifi6_title">Altıncı nesil standardı destekler</string>
   <string name="tethering_footer_info">Mobil veri bağlantınız üzerinden diğer cihazlara internet sağlamak için internet paylaşımını kullanın. Uygulamalar, içeriği yakındaki cihazlarla paylaşmak için bir paylaşım noktası oluşturabilir.</string>
   <string name="tethering_help_button_text">Yardım</string>
   <string name="tethering_settings_not_available">Paylaşım ayarlarını İlk Alanda değiştirin</string>
