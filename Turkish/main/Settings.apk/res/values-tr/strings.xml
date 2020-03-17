@@ -1313,8 +1313,8 @@ Sorun şunlar olabilir:
   <string name="cryptkeeper_wrong_pattern">Yanlış desen</string>
   <string name="cryptkeeper_wrong_pin">Yanlış PIN</string>
   <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
-  <string name="current_input_method">Standart</string>
-  <string name="current_screen_lock">Geçerli Ekran Kilidi</string>
+  <string name="current_input_method">Geçerli Klavye</string>
+  <string name="current_screen_lock">Geçerli ekran kilidi</string>
   <string name="current_use_ese">Yerleşik güvenli öğe kullan</string>
   <string name="current_use_ese_wallet">Mi Cüzdan kullanıyorsunuz. Bu Mi Ödeme ve NFC taşıma kartı kullanmanıza olanak verir.</string>
   <string name="current_use_hce_wallet">HCE Cüzdan kullanıyorsunuz</string>
@@ -2376,18 +2376,20 @@ Yedekleme dosyasını cihazınıza kopyalayın (MIUI-backup-AllBackup). Ayarlar 
   <string name="key_settings">Düğme ve hareket kısayolları</string>
   <string name="key_settings_title">Düğme ve hareket kısayolları</string>
   <string name="key_system_control">Sistem kontrolü</string>
-  <string name="keyboard_and_input_methods_category">Klavye ve Giriş Usulleri</string>
-  <string name="keyboard_assistance_category">Klavye Yardımı</string>
+  <string name="keyboard_and_input_methods_category">Klavye</string>
+  <string name="keyboard_assistance_category">Klavye yardımı</string>
+  <string name="keyboard_disconnected">Bağlı değil</string>
   <string name="keyboard_layout_default_label">Varsayılan</string>
   <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarla</string>
   <string name="keyboard_layout_dialog_switch_hint">Geçiş yapmak için Kontrol-Boşluk tuşlarına basın</string>
   <string name="keyboard_layout_dialog_title">Klavye düzenini seçin</string>
-  <string name="keyboard_layout_picker_title">Klavye Düzenleri</string>
-  <string name="keyboard_settings_category">Klavye &amp; Giriş Usulleri</string>
-  <string name="keyboard_settings_title">Android Klavye</string>
+  <string name="keyboard_layout_picker_title">Klavye düzenleri</string>
+  <string name="keyboard_mouse_touch">Klavye, mouse, ve track pad</string>
+  <string name="keyboard_settings_category">Giriş yöntemleri</string>
+  <string name="keyboard_settings_title">Android klavye</string>
   <string name="keyboard_shortcuts_helper">Klavye kısayolları yardımcısı</string>
-  <string name="keyboard_shortcuts_helper_summary">Kullanılabilir kısayolları göster</string>
-  <string name="keyguard_advance_setting_title">Gelişmiş Ayarlar</string>
+  <string name="keyboard_shortcuts_helper_summary">Kullanılabilir kısayolları görüntüle</string>
+  <string name="keyguard_advance_setting_title">Gelişmiş ayarlar</string>
   <string name="keywords_accounts">Hesap</string>
   <string name="keywords_airplane">Uçuş modu; Feixing, Uçak, Fly</string>
   <string name="keywords_all_apps">uygulamalar, indir, uygulamalar, sistem</string>
@@ -6487,7 +6489,7 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
 Yukarıdakilerden herhangi birini zaten yaptıysanız, Mi Hesabınızı tekrar ekleyin; Aksi takdirde, cihazınızın kilidini açamazsınız."</string>
   <string name="bootloader_tips_warning">Ağ bağlantısını kesmeyin, Mi Hesabınızdan çıkmayın, fabrika ayarlarına sıfırlama yapmayın veya sistem verilerini silmeyin.</string>
   <string name="bootloader_tips_ok">Anladım</string>
-  <string name="keyguard_notification_status_title">Ekran kapalı bildirim geldiğinde</string> 
+  <string name="keyguard_notification_status_title">Bildirimler geldiğinde ve ekran kapalıyken</string> 
   <string name="others">Diğer</string>
   <string name="input_pattern_hint_text">Kilit açma deseninizi çizin</string>
   <string name="slider_voice_online_theme">Çevrimiçi sesler</string>
@@ -7029,7 +7031,6 @@ Oynatma kalitesi"</string>
   <string name="input_method_bottom_open">Açık</string>
   <string name="input_method_manage">Klavyeleri yönet</string>
   <string name="input_method_settings_text">Ayarlar</string>
-  <string name="keyboard_mouse_touch">Klavye, mouse, ve track pad</string>
   <string name="other_input_settings">Ek klavye ayarları</string>
   <string name="link_turbo_prompt">Bu sayfadaki istatistikler, yalnızca WLAN bağlantı hızını artırmak için kullanılan veri miktarını gösterir. Bu istatistikler gerçek mobil veri kullanımını yansıtmaz.</string>
   <string name="link_turbo_settings_all_app_display_loading">Sadece bir saniye…</string>
