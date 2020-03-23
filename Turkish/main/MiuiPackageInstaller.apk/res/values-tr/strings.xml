@@ -280,7 +280,8 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_warning_dialog_detail">"Aşağıdaki durumlarda sizden istenir:
  "<li>Bir uygulama virüs içerdiğinde.</li>"
- "<li>Kurulum paketi bilinmeyen bir kaynaktan geliyorsa.</li></string>
+ "<li>Uygulamanın daha yeni bir sürümü mağazada mevcutsa.</li>
+ "<li>Kurulum paketi bilinmeyen bir kaynaktan geliyorsa.</li></string> 
   <string name="settings_warning_dialog_msg">Telefonunuz güvenlik risklerine eğilimlidir. Bu özelliği kapatırsanız güvenli uygulama sürümlerini yüklemeniz önerilmez. Yine de kapatılsın mı?</string>
   <string name="settings_warning_dialog_title">Dikkat</string>
   <string name="system_warning">Bu izni reddederseniz, cihazınızın temel özellikleri istenen şekilde çalışmayabilir.</string>
