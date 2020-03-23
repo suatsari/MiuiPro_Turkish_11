@@ -25,7 +25,7 @@
   <string name="dialog_not_show_again">Tekrar gösterme</string>
   <string name="dialog_tip_limit">%s den büyük dosyayı indirirken uyarı ver</string>
   <string name="dialog_tip_limit0">Her defasında uyar</string>
-  <string name="dialog_tip_no_limit">Uyarm</string>
+  <string name="dialog_tip_no_limit">Uyarma</string>
   <string name="download_apk_desktop_installing">Yükleniyor</string>
   <string name="download_apk_desktop_pause">Duraklatıldı</string>
   <string name="download_apk_desktop_pending">Bekliyor</string>
